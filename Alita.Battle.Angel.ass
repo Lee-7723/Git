@@ -1,0 +1,1373 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+ScaledBorderAndShadow: Yes
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+
+Style: 中文,WenQuanYi Micro Hei,16,&H00eaeaea,&H00000000,&H00000000,&H00000000,-1,0,0,0,100.00,110.00,0.00,0.00,1,1.00,1.00,2,0,0,17,1
+
+Style: Default,Segoe UI,18,&H00ffffff,&H00000000,&H00000000,&H90000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,2.00,3.00,1,5,5,5,1
+
+Style: 英文,WenQuanYi Micro Hei,12,&H003ca8dc,&H00000000,&H00000000,&H00000000,-1,0,0,0,100.00,100.00,0.00,0.00,1,1.00,1.00,2,0,0,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.99,0:00:07.99,英文,,0000,0000,0000,,{\blur3}影院公映字幕 @字幕库2891968287
+Dialogue: 0,0:01:22.64,0:01:23.70,英文,,0000,0000,0000,,{\blur3}Mm-mmm.
+Dialogue: 0,0:02:01.14,0:02:02.61,英文,,0000,0000,0000,,{\blur3}You're alive.
+Dialogue: 0,0:02:56.43,0:02:58.97,英文,,0000,0000,0000,,{\blur3}What are you dreaming,little angel?
+Dialogue: 0,0:05:17.00,0:05:18.17,英文,,0000,0000,0000,,{\blur3}Well...
+Dialogue: 0,0:05:22.18,0:05:24.54,英文,,0000,0000,0000,,{\blur3}Try again.
+Dialogue: 0,0:05:24.54,0:05:26.81,英文,,0000,0000,0000,,{\blur3}Well, that's the bestI can do for now.
+Dialogue: 0,0:05:26.81,0:05:27.91,英文,,0000,0000,0000,,{\blur3}I'm really grateful, Doc.
+Dialogue: 0,0:05:27.91,0:05:29.85,英文,,0000,0000,0000,,{\blur3}I'll be getting some overtimenext week.
+Dialogue: 0,0:05:29.85,0:05:31.12,英文,,0000,0000,0000,,{\blur3}Yeah, pay me when you can.
+Dialogue: 0,0:05:31.12,0:05:32.99,英文,,0000,0000,0000,,{\blur3}Here,I got these for you.
+Dialogue: 0,0:05:33.75,0:05:35.92,英文,,0000,0000,0000,,{\blur3}My wife works outat Farm 22.
+Dialogue: 0,0:05:35.92,0:05:37.29,英文,,0000,0000,0000,,{\blur3}Thank you.
+Dialogue: 0,0:05:38.26,0:05:39.73,英文,,0000,0000,0000,,{\blur3}See you next time.
+Dialogue: 0,0:05:40.63,0:05:41.69,英文,,0000,0000,0000,,{\blur3}Keep getting paid in fruit,
+Dialogue: 0,0:05:41.70,0:05:43.66,英文,,0000,0000,0000,,{\blur3}and we'll be pickingthese ourselves.
+Dialogue: 0,0:05:47.37,0:05:48.74,英文,,0000,0000,0000,,{\blur3}Hello, sleepyhead.
+Dialogue: 0,0:05:50.97,0:05:51.97,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,0:05:53.37,0:05:54.68,英文,,0000,0000,0000,,{\blur3}How do you feel?
+Dialogue: 0,0:05:56.58,0:05:57.81,英文,,0000,0000,0000,,{\blur3}Okay.
+Dialogue: 0,0:05:57.81,0:05:59.68,英文,,0000,0000,0000,,{\blur3}Any pain anywhere?
+Dialogue: 0,0:06:00.21,0:06:01.25,英文,,0000,0000,0000,,{\blur3}No.
+Dialogue: 0,0:06:01.92,0:06:03.95,英文,,0000,0000,0000,,{\blur3}- Numbness?- No.
+Dialogue: 0,0:06:05.25,0:06:06.92,英文,,0000,0000,0000,,{\blur3}Motor dysfunction?
+Dialogue: 0,0:06:07.65,0:06:09.92,英文,,0000,0000,0000,,{\blur3}I'm a little hungry.
+Dialogue: 0,0:06:10.36,0:06:11.89,英文,,0000,0000,0000,,{\blur3}Eat this.
+Dialogue: 0,0:06:11.89,0:06:13.39,英文,,0000,0000,0000,,{\blur3}Get your sugar levels up.
+Dialogue: 0,0:06:20.90,0:06:23.24,英文,,0000,0000,0000,,{\blur3}Taste receptors are working.
+Dialogue: 0,0:06:24.14,0:06:25.90,英文,,0000,0000,0000,,{\blur3}Thank you.
+Dialogue: 0,0:06:25.90,0:06:29.34,英文,,0000,0000,0000,,{\blur3}You'll like this a whole lotbetter with the peel off.
+Dialogue: 0,0:06:30.74,0:06:32.71,英文,,0000,0000,0000,,{\blur3}I don't mean to be rude...
+Dialogue: 0,0:06:32.71,0:06:34.82,英文,,0000,0000,0000,,{\blur3}but am I supposedto know you?
+Dialogue: 0,0:06:35.42,0:06:36.81,英文,,0000,0000,0000,,{\blur3}Actually...
+Dialogue: 0,0:06:36.82,0:06:38.32,英文,,0000,0000,0000,,{\blur3}we haven't met.
+Dialogue: 0,0:06:38.32,0:06:41.85,英文,,0000,0000,0000,,{\blur3}I'm Dr. Dyson Ido.This is Nurse Gerhad.
+Dialogue: 0,0:06:43.89,0:06:46.19,英文,,0000,0000,0000,,{\blur3}And do you know who I am?
+Dialogue: 0,0:06:47.89,0:06:50.23,英文,,0000,0000,0000,,{\blur3}Well, we were hoping...
+Dialogue: 0,0:06:50.23,0:06:52.03,英文,,0000,0000,0000,,{\blur3}you'd fill in that part.
+Dialogue: 0,0:06:52.03,0:06:54.30,英文,,0000,0000,0000,,{\blur3}Since you'rea total replacement cyborg...
+Dialogue: 0,0:06:54.30,0:06:57.47,英文,,0000,0000,0000,,{\blur3}and most of your cyber bodywas destroyed...
+Dialogue: 0,0:06:57.47,0:06:59.10,英文,,0000,0000,0000,,{\blur3}we can't find any records.
+Dialogue: 0,0:06:59.11,0:07:03.78,英文,,0000,0000,0000,,{\blur3}But your very human brain was miraculously intact.
+Dialogue: 0,0:07:04.84,0:07:07.64,英文,,0000,0000,0000,,{\blur3}Theoretically, you should remember something.
+Dialogue: 0,0:07:07.65,0:07:10.12,英文,,0000,0000,0000,,{\blur3}Oh. Well...
+Dialogue: 0,0:07:11.48,0:07:13.22,英文,,0000,0000,0000,,{\blur3}It's still pretty blank.
+Dialogue: 0,0:07:14.82,0:07:17.76,英文,,0000,0000,0000,,{\blur3}No, it's completely blank,actually.
+Dialogue: 0,0:07:21.76,0:07:23.83,英文,,0000,0000,0000,,{\blur3}I don't even know my own name.
+Dialogue: 0,0:07:28.60,0:07:30.90,英文,,0000,0000,0000,,{\blur3}Let's look at the bright side.
+Dialogue: 0,0:07:31.54,0:07:34.11,英文,,0000,0000,0000,,{\blur3}Your tears are working.
+
+Dialogue: 0,0:07:45.38,0:07:46.75,英文,,0000,0000,0000,,{\blur3}Mmm.
+Dialogue: 0,0:07:49.22,0:07:50.09,英文,,0000,0000,0000,,{\blur3}That's so good.
+Dialogue: 0,0:07:50.62,0:07:51.83,英文,,0000,0000,0000,,{\blur3}What do you call this?
+Dialogue: 0,0:08:17.72,0:08:20.58,英文,,0000,0000,0000,,{\blur3}Yeow! What's that?
+Dialogue: 0,0:08:20.59,0:08:22.45,英文,,0000,0000,0000,,{\blur3}- Zalem.- Oh!
+Dialogue: 0,0:08:22.46,0:08:24.86,英文,,0000,0000,0000,,{\blur3}The last ofthe great sky cities.
+Dialogue: 0,0:08:26.83,0:08:30.16,英文,,0000,0000,0000,,{\blur3}- What holds it up? Magic?- No.
+Dialogue: 0,0:08:30.16,0:08:33.23,英文,,0000,0000,0000,,{\blur3}Something stronger.Engineering.
+Dialogue: 0,0:08:40.04,0:08:42.41,英文,,0000,0000,0000,,{\blur3}And down here,we have Iron City.
+Dialogue: 0,0:08:42.41,0:08:43.87,英文,,0000,0000,0000,,{\blur3}With all its charm.
+Dialogue: 0,0:08:43.88,0:08:47.31,英文,,0000,0000,0000,,{\blur3}Dr. Dyson Ido. That's you.
+Dialogue: 0,0:08:47.31,0:08:50.42,英文,,0000,0000,0000,,{\blur3}While I'm learning names,do you have one for me?
+Dialogue: 0,0:08:51.45,0:08:52.45,英文,,0000,0000,0000,,{\blur3}Alita.
+Dialogue: 0,0:08:57.16,0:08:58.16,英文,,0000,0000,0000,,{\blur3}It's a nice name.
+Dialogue: 0,0:08:59.43,0:09:00.43,英文,,0000,0000,0000,,{\blur3}I love it.
+Dialogue: 0,0:09:00.86,0:09:02.36,英文,,0000,0000,0000,,{\blur3}Can I keep it?
+Dialogue: 0,0:09:02.36,0:09:04.90,英文,,0000,0000,0000,,{\blur3}At least until I can remember my real name?
+Dialogue: 0,0:09:04.90,0:09:06.53,英文,,0000,0000,0000,,{\blur3}- Mm-hmm.- Thank you.
+Dialogue: 0,0:09:07.97,0:09:09.67,英文,,0000,0000,0000,,{\blur3}Okay.
+Dialogue: 0,0:09:09.67,0:09:11.37,英文,,0000,0000,0000,,{\blur3}- Do you want to take a look?- Yes.
+Dialogue: 0,0:09:17.01,0:09:19.08,英文,,0000,0000,0000,,{\blur3}Why are there so many languages?
+Dialogue: 0,0:09:19.08,0:09:21.34,英文,,0000,0000,0000,,{\blur3}Um, after the big war I told you about...
+Dialogue: 0,0:09:21.35,0:09:22.25,英文,,0000,0000,0000,,{\blur3}The Fall.
+Dialogue: 0,0:09:22.25,0:09:24.95,英文,,0000,0000,0000,,{\blur3}After The Fall,only Zalem was left...
+Dialogue: 0,0:09:24.95,0:09:28.05,英文,,0000,0000,0000,,{\blur3}and survivors came here from all over the world.
+Dialogue: 0,0:09:29.09,0:09:31.49,英文,,0000,0000,0000,,{\blur3}Everybody down here works for Zalem.
+Dialogue: 0,0:09:31.49,0:09:33.66,英文,,0000,0000,0000,,{\blur3}The Factory, the Farms...
+Dialogue: 0,0:09:33.66,0:09:35.39,英文,,0000,0000,0000,,{\blur3}Does anyone ever go up to Zalem?
+Dialogue: 0,0:09:35.39,0:09:36.26,英文,,0000,0000,0000,,{\blur3}We should go.
+Dialogue: 0,0:09:36.26,0:09:38.20,英文,,0000,0000,0000,,{\blur3}Nobody from down here ever goes up.
+Dialogue: 0,0:09:38.20,0:09:39.93,英文,,0000,0000,0000,,{\blur3}It's a rule that's never broken.
+Dialogue: 0,0:09:40.47,0:09:41.80,英文,,0000,0000,0000,,{\blur3}What?
+Dialogue: 0,0:09:46.27,0:09:49.67,英文,,0000,0000,0000,,{\blur3}{\i1}Oh!And he takes him down hard!{\i}
+Dialogue: 0,0:09:49.68,0:09:51.18,英文,,0000,0000,0000,,{\blur3}What is that?
+Dialogue: 0,0:09:52.35,0:09:53.85,英文,,0000,0000,0000,,{\blur3}It's Motor ball.
+Dialogue: 0,0:09:54.38,0:09:55.78,英文,,0000,0000,0000,,{\blur3}That's so cool.
+Dialogue: 0,0:09:55.78,0:09:59.12,英文,,0000,0000,0000,,{\blur3}Nothing you need to be wasting your time watching.
+Dialogue: 0,0:10:16.54,0:10:17.94,英文,,0000,0000,0000,,{\blur3}Alita.
+Dialogue: 0,0:10:18.94,0:10:20.41,英文,,0000,0000,0000,,{\blur3}One minute, please.
+Dialogue: 0,0:10:27.38,0:10:28.41,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,0:10:30.18,0:10:31.25,英文,,0000,0000,0000,,{\blur3}Hello.
+Dialogue: 0,0:10:31.79,0:10:33.38,英文,,0000,0000,0000,,{\blur3}You want some?
+Dialogue: 0,0:10:33.39,0:10:34.45,英文,,0000,0000,0000,,{\blur3}Here you go.
+Dialogue: 0,0:10:37.82,0:10:39.46,英文,,0000,0000,0000,,{\blur3}Can I hug you?
+Dialogue: 0,0:10:39.76,0:10:40.96,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,0:11:01.95,0:11:03.81,英文,,0000,0000,0000,,{\blur3}{\i1}Step aside.{\i}
+Dialogue: 0,0:11:03.82,0:11:06.15,英文,,0000,0000,0000,,{\blur3}{\i1}Out of the way.{\i}
+Dialogue: 0,0:11:19.63,0:11:21.33,英文,,0000,0000,0000,,{\blur3}Outstanding.
+Dialogue: 0,0:11:24.47,0:11:26.54,英文,,0000,0000,0000,,{\blur3}Why don't you watch where you're going?
+Dialogue: 0,0:11:29.34,0:11:30.57,英文,,0000,0000,0000,,{\blur3}I gotta admit...
+Dialogue: 0,0:11:30.58,0:11:33.51,英文,,0000,0000,0000,,{\blur3}I never saw anybody challenge a Centurion before.
+Dialogue: 0,0:11:35.85,0:11:38.35,英文,,0000,0000,0000,,{\blur3}Whoa. You're heavy.
+Dialogue: 0,0:11:38.88,0:11:40.09,英文,,0000,0000,0000,,{\blur3}I mean...
+Dialogue: 0,0:11:40.89,0:11:42.09,英文,,0000,0000,0000,,{\blur3}Oh.
+Dialogue: 0,0:11:42.09,0:11:43.59,英文,,0000,0000,0000,,{\blur3}You're a cyborg.
+Dialogue: 0,0:11:45.76,0:11:47.63,英文,,0000,0000,0000,,{\blur3}Sorry, I was just admiring your hand.
+Dialogue: 0,0:11:48.60,0:11:50.13,英文,,0000,0000,0000,,{\blur3}Can I see?
+Dialogue: 0,0:11:56.34,0:11:57.34,英文,,0000,0000,0000,,{\blur3}Wow.
+Dialogue: 0,0:11:58.90,0:12:00.34,英文,,0000,0000,0000,,{\blur3}It's really nice work.
+Dialogue: 0,0:12:02.01,0:12:03.28,英文,,0000,0000,0000,,{\blur3}Did Doc Ido do it?
+Dialogue: 0,0:12:03.81,0:12:05.64,英文,,0000,0000,0000,,{\blur3}He built all of me.
+Dialogue: 0,0:12:05.64,0:12:08.71,英文,,0000,0000,0000,,{\blur3}Except my core. That's mine.
+Dialogue: 0,0:12:08.72,0:12:11.28,英文,,0000,0000,0000,,{\blur3}Well, he did a really great job.
+Dialogue: 0,0:12:13.89,0:12:15.35,英文,,0000,0000,0000,,{\blur3}Hey, what are those things?
+Dialogue: 0,0:12:15.35,0:12:16.56,英文,,0000,0000,0000,,{\blur3}The Centurions?
+Dialogue: 0,0:12:17.39,0:12:19.66,英文,,0000,0000,0000,,{\blur3}What planet are you from?
+Dialogue: 0,0:12:19.66,0:12:21.89,英文,,0000,0000,0000,,{\blur3}Ido found me in the Scrapyard.
+Dialogue: 0,0:12:21.89,0:12:23.86,英文,,0000,0000,0000,,{\blur3}- The Scrapyard?- Mm-hmm.
+Dialogue: 0,0:12:23.86,0:12:25.80,英文,,0000,0000,0000,,{\blur3}But that would mean...
+Dialogue: 0,0:12:25.80,0:12:27.06,英文,,0000,0000,0000,,{\blur3}Hey, Doc.
+Dialogue: 0,0:12:27.07,0:12:29.40,英文,,0000,0000,0000,,{\blur3}I got those driver-boards you were looking for.
+Dialogue: 0,0:12:30.70,0:12:31.90,英文,,0000,0000,0000,,{\blur3}Alita is new here.
+Dialogue: 0,0:12:31.90,0:12:33.80,英文,,0000,0000,0000,,{\blur3}She's still learning about things.
+Dialogue: 0,0:12:33.81,0:12:34.94,英文,,0000,0000,0000,,{\blur3}I gotta go.
+Dialogue: 0,0:12:34.94,0:12:36.27,英文,,0000,0000,0000,,{\blur3}I'll drop those off later.
+Dialogue: 0,0:12:36.27,0:12:39.11,英文,,0000,0000,0000,,{\blur3}I need a rebuild on a quad servo.
+Dialogue: 0,0:12:39.11,0:12:40.68,英文,,0000,0000,0000,,{\blur3}Maybe I'll see you around.
+Dialogue: 0,0:12:43.98,0:12:45.25,英文,,0000,0000,0000,,{\blur3}Who is that?
+Dialogue: 0,0:12:45.69,0:12:47.09,英文,,0000,0000,0000,,{\blur3}Hugo.
+Dialogue: 0,0:12:47.95,0:12:50.25,英文,,0000,0000,0000,,{\blur3}He's a hard worker, but...
+Dialogue: 0,0:12:50.26,0:12:52.42,英文,,0000,0000,0000,,{\blur3}Alita, come on,let's go home.
+Dialogue: 0,0:12:59.57,0:13:01.33,英文,,0000,0000,0000,,{\blur3}- Hugo.- Let's go home.
+Dialogue: 0,0:14:16.37,0:14:17.61,英文,,0000,0000,0000,,{\blur3}There's the damn Jackers
+Dialogue: 0,0:14:17.61,0:14:20.24,英文,,0000,0000,0000,,{\blur3}that ripped me to shreds standing right there.
+Dialogue: 0,0:14:20.25,0:14:24.11,英文,,0000,0000,0000,,{\blur3}And that {\i1}vale madre{\i} Centurionwouldn't lift a finger.
+Dialogue: 0,0:14:24.12,0:14:26.65,英文,,0000,0000,0000,,{\blur3}Why would anyone wanna take your arms and legs?
+Dialogue: 0,0:14:26.65,0:14:27.65,英文,,0000,0000,0000,,{\blur3}Torque coupling.
+Dialogue: 0,0:14:29.62,0:14:32.69,英文,,0000,0000,0000,,{\blur3}Those Jackers want your parts for the black market.
+Dialogue: 0,0:14:33.73,0:14:35.46,英文,,0000,0000,0000,,{\blur3}To supply the Motorball games.
+Dialogue: 0,0:14:35.46,0:14:37.19,英文,,0000,0000,0000,,{\blur3}You were lucky.
+Dialogue: 0,0:14:37.20,0:14:40.33,英文,,0000,0000,0000,,{\blur3}Another girl was murdered last night, right near there.
+Dialogue: 0,0:14:40.33,0:14:43.87,英文,,0000,0000,0000,,{\blur3}Yeah, I heard that guy carves girls up...
+Dialogue: 0,0:14:43.87,0:14:45.54,英文,,0000,0000,0000,,{\blur3}and sells their body parts.
+Dialogue: 0,0:14:49.17,0:14:51.41,英文,,0000,0000,0000,,{\blur3}Sorry, Doc.
+Dialogue: 0,0:14:51.41,0:14:53.01,英文,,0000,0000,0000,,{\blur3}For now, I don't want you out after dark.
+Dialogue: 0,0:14:53.01,0:14:54.34,英文,,0000,0000,0000,,{\blur3}Is that understood?
+Dialogue: 0,0:14:54.35,0:14:55.48,英文,,0000,0000,0000,,{\blur3}Okay.
+Dialogue: 0,0:14:56.35,0:14:57.78,英文,,0000,0000,0000,,{\blur3}And if you go out during the day,
+Dialogue: 0,0:14:57.78,0:14:59.92,英文,,0000,0000,0000,,{\blur3}don't wander too far from this neighborhood.
+Dialogue: 0,0:14:59.92,0:15:01.02,英文,,0000,0000,0000,,{\blur3}Okay.
+Dialogue: 0,0:15:01.02,0:15:02.08,英文,,0000,0000,0000,,{\blur3}Promise?
+Dialogue: 0,0:15:02.09,0:15:03.46,英文,,0000,0000,0000,,{\blur3}I promise.
+Dialogue: 0,0:15:14.63,0:15:15.87,英文,,0000,0000,0000,,{\blur3}Hey, kid.
+Dialogue: 0,0:15:29.92,0:15:31.65,英文,,0000,0000,0000,,{\blur3}Hey, what's your problem?
+Dialogue: 0,0:15:45.70,0:15:46.87,英文,,0000,0000,0000,,{\blur3}Who's the girl?
+Dialogue: 0,0:15:48.30,0:15:50.44,英文,,0000,0000,0000,,{\blur3}My new assistant.
+Dialogue: 0,0:15:52.60,0:15:55.84,英文,,0000,0000,0000,,{\blur3}I was surprised to see her in our daughter's body.
+Dialogue: 0,0:15:55.84,0:15:58.54,英文,,0000,0000,0000,,{\blur3}You were supposed to have destroyed that years ago.
+Dialogue: 0,0:16:01.05,0:16:03.28,英文,,0000,0000,0000,,{\blur3}- I couldn't.- Clearly.
+Dialogue: 0,0:16:05.12,0:16:07.85,英文,,0000,0000,0000,,{\blur3}And did you tell her who you built that body for?
+Dialogue: 0,0:16:11.29,0:16:14.09,英文,,0000,0000,0000,,{\blur3}Our daughter is dead, Chiren.
+Dialogue: 0,0:16:14.09,0:16:15.93,英文,,0000,0000,0000,,{\blur3}- You need to let it go.- Oh.
+Dialogue: 0,0:16:15.93,0:16:18.97,英文,,0000,0000,0000,,{\blur3}It's obviously not me that's clinging to something here.
+Dialogue: 0,0:16:33.65,0:16:34.81,英文,,0000,0000,0000,,{\blur3}Over here!
+Dialogue: 0,0:16:47.26,0:16:49.43,英文,,0000,0000,0000,,{\blur3}- Hugo.- Hey, Alita.
+Dialogue: 0,0:16:49.43,0:16:50.93,英文,,0000,0000,0000,,{\blur3}Is this Motorball?
+Dialogue: 0,0:16:50.93,0:16:52.86,英文,,0000,0000,0000,,{\blur3}It's just a scrimmage.
+Dialogue: 0,0:16:52.86,0:16:54.23,英文,,0000,0000,0000,,{\blur3}Do you wanna join in?
+Dialogue: 0,0:16:56.13,0:16:57.80,英文,,0000,0000,0000,,{\blur3}Come on, every kid's gotta play Motorball.
+Dialogue: 0,0:16:59.77,0:17:01.60,英文,,0000,0000,0000,,{\blur3}Sure, why not?
+Dialogue: 0,0:17:01.61,0:17:03.48,英文,,0000,0000,0000,,{\blur3}I want usto be a team again.
+Dialogue: 0,0:17:04.91,0:17:06.55,英文,,0000,0000,0000,,{\blur3}I have a great new setup...
+Dialogue: 0,0:17:07.38,0:17:09.25,英文,,0000,0000,0000,,{\blur3}and equipment...
+Dialogue: 0,0:17:09.25,0:17:10.92,英文,,0000,0000,0000,,{\blur3}worthy of your skills.
+Dialogue: 0,0:17:12.18,0:17:14.42,英文,,0000,0000,0000,,{\blur3}Together, we can build the finest champions
+Dialogue: 0,0:17:14.42,0:17:15.89,英文,,0000,0000,0000,,{\blur3}this game has ever seen.
+Dialogue: 0,0:17:16.82,0:17:18.35,英文,,0000,0000,0000,,{\blur3}Could be my ticket home.
+Dialogue: 0,0:17:18.36,0:17:21.39,英文,,0000,0000,0000,,{\blur3}When are you going to realize there is no way back?
+Dialogue: 0,0:17:21.39,0:17:23.03,英文,,0000,0000,0000,,{\blur3}It just does not happen.
+Dialogue: 0,0:17:23.03,0:17:24.19,英文,,0000,0000,0000,,{\blur3}Vector can make it happen.
+Dialogue: 0,0:17:24.20,0:17:26.16,英文,,0000,0000,0000,,{\blur3}I can't believe you trust Vector.
+Dialogue: 0,0:17:26.16,0:17:28.50,英文,,0000,0000,0000,,{\blur3}He has very high connections.
+Dialogue: 0,0:17:30.44,0:17:32.77,英文,,0000,0000,0000,,{\blur3}I won't help you build monsters.
+Dialogue: 0,0:17:40.51,0:17:42.68,英文,,0000,0000,0000,,{\blur3}I'm going to get back to Zalem somehow.
+Dialogue: 0,0:17:43.78,0:17:47.05,英文,,0000,0000,0000,,{\blur3}I'll claw my way there with my bare hands if I have to.
+Dialogue: 0,0:18:06.34,0:18:08.01,英文,,0000,0000,0000,,{\blur3}Hey, everyone,this is Alita.
+Dialogue: 0,0:18:09.91,0:18:10.97,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,0:18:10.98,0:18:12.81,英文,,0000,0000,0000,,{\blur3}Best way to learn is to go in.
+Dialogue: 0,0:18:28.56,0:18:29.83,英文,,0000,0000,0000,,{\blur3}Pass the ball!
+Dialogue: 0,0:18:29.83,0:18:30.96,英文,,0000,0000,0000,,{\blur3}That's it.
+Dialogue: 0,0:18:30.96,0:18:32.83,英文,,0000,0000,0000,,{\blur3}Lean into your turns,look for an opening.
+Dialogue: 0,0:18:33.90,0:18:35.94,英文,,0000,0000,0000,,{\blur3}I think I'm getting it!
+Dialogue: 0,0:18:41.81,0:18:43.74,英文,,0000,0000,0000,,{\blur3}You can let goof the remote now.
+Dialogue: 0,0:18:45.75,0:18:47.05,英文,,0000,0000,0000,,{\blur3}Oh, crap.
+Dialogue: 0,0:18:54.15,0:18:56.32,英文,,0000,0000,0000,,{\blur3}- Come on, get her!- Come on, get her!
+Dialogue: 0,0:18:56.32,0:18:57.42,英文,,0000,0000,0000,,{\blur3}Cut her off!
+Dialogue: 0,0:18:57.42,0:18:58.83,英文,,0000,0000,0000,,{\blur3}Koyomi, pass her the ball.
+Dialogue: 0,0:19:00.26,0:19:01.56,英文,,0000,0000,0000,,{\blur3}And she got it! She got it!
+Dialogue: 0,0:19:03.36,0:19:04.66,英文,,0000,0000,0000,,{\blur3}Get her!
+Dialogue: 0,0:19:10.20,0:19:11.60,英文,,0000,0000,0000,,{\blur3}Sorry, princess.
+Dialogue: 0,0:19:12.94,0:19:14.04,英文,,0000,0000,0000,,{\blur3}Nice, Tanji, thanks.
+Dialogue: 0,0:19:14.04,0:19:15.91,英文,,0000,0000,0000,,{\blur3}She's never played before.
+Dialogue: 0,0:19:20.38,0:19:21.58,英文,,0000,0000,0000,,{\blur3}Sorry.
+Dialogue: 0,0:19:33.73,0:19:34.99,英文,,0000,0000,0000,,{\blur3}Got this!
+Dialogue: 0,0:19:34.99,0:19:35.99,英文,,0000,0000,0000,,{\blur3}Mine!
+Dialogue: 0,0:19:43.60,0:19:44.84,英文,,0000,0000,0000,,{\blur3}You got me!
+Dialogue: 0,0:20:01.15,0:20:02.15,英文,,0000,0000,0000,,{\blur3}Good shot.
+Dialogue: 0,0:20:07.29,0:20:10.09,英文,,0000,0000,0000,,{\blur3}Your freak girl friend's got some serious malfunctions.
+Dialogue: 0,0:20:10.10,0:20:11.69,英文,,0000,0000,0000,,{\blur3}I'm really sorry.
+Dialogue: 0,0:20:11.70,0:20:13.50,英文,,0000,0000,0000,,{\blur3}She humiliated you so severely.
+Dialogue: 0,0:20:15.63,0:20:17.50,英文,,0000,0000,0000,,{\blur3}All right,I'll see you tonight.
+Dialogue: 0,0:20:17.50,0:20:20.11,英文,,0000,0000,0000,,{\blur3}And, uh,she's not my girlfriend.
+Dialogue: 0,0:20:21.84,0:20:22.84,英文,,0000,0000,0000,,{\blur3}Whatever.
+Dialogue: 0,0:20:29.58,0:20:31.72,英文,,0000,0000,0000,,{\blur3}You've got some talent for this game.
+Dialogue: 0,0:20:32.75,0:20:34.05,英文,,0000,0000,0000,,{\blur3}I've got to get home now.
+Dialogue: 0,0:20:34.05,0:20:36.19,英文,,0000,0000,0000,,{\blur3}Ido wants me in the house before dark.
+Dialogue: 0,0:20:39.42,0:20:40.96,英文,,0000,0000,0000,,{\blur3}Do you want a ride?
+Dialogue: 0,0:20:46.90,0:20:48.40,英文,,0000,0000,0000,,{\blur3}So you can't remember anything?
+Dialogue: 0,0:20:48.40,0:20:49.70,英文,,0000,0000,0000,,{\blur3}I'm trying to.
+Dialogue: 0,0:20:49.70,0:20:52.84,英文,,0000,0000,0000,,{\blur3}Family, friends,favorite food?
+Dialogue: 0,0:20:52.84,0:20:55.37,英文,,0000,0000,0000,,{\blur3}Nothing. Well, maybe oranges.
+Dialogue: 0,0:20:55.37,0:20:56.74,英文,,0000,0000,0000,,{\blur3}But that's just since yesterday.
+Dialogue: 0,0:20:56.74,0:20:58.64,英文,,0000,0000,0000,,{\blur3}- Oranges?- Uh-huh.
+Dialogue: 0,0:20:58.64,0:21:00.68,英文,,0000,0000,0000,,{\blur3}Nope. Unacceptable.
+Dialogue: 0,0:21:01.55,0:21:03.58,英文,,0000,0000,0000,,{\blur3}Here, check this out.
+Dialogue: 0,0:21:04.42,0:21:06.18,英文,,0000,0000,0000,,{\blur3}Thank you very much, {\i1}Senora.{\i}
+Dialogue: 0,0:21:09.62,0:21:11.19,英文,,0000,0000,0000,,{\blur3}And here you go.
+Dialogue: 0,0:21:11.19,0:21:12.32,英文,,0000,0000,0000,,{\blur3}Thank you.
+Dialogue: 0,0:21:12.32,0:21:13.79,英文,,0000,0000,0000,,{\blur3}You ready?
+Dialogue: 0,0:21:13.79,0:21:14.79,英文,,0000,0000,0000,,{\blur3}Try this.
+Dialogue: 0,0:21:15.16,0:21:16.16,英文,,0000,0000,0000,,{\blur3}Trust me.
+Dialogue: 0,0:21:17.46,0:21:18.76,英文,,0000,0000,0000,,{\blur3}It's chocolate.
+Dialogue: 0,0:21:23.97,0:21:24.83,英文,,0000,0000,0000,,{\blur3}Mmm.
+Dialogue: 0,0:21:24.84,0:21:26.87,英文,,0000,0000,0000,,{\blur3}- That is so great.- It's good, right?
+Dialogue: 0,0:21:28.41,0:21:30.67,英文,,0000,0000,0000,,{\blur3}I have a favorite food now.
+Dialogue: 0,0:21:30.68,0:21:31.91,英文,,0000,0000,0000,,{\blur3}- Thank you.- This is my favorite food.
+Dialogue: 0,0:21:31.91,0:21:33.18,英文,,0000,0000,0000,,{\blur3}Well, I wouldn't call it that.
+Dialogue: 0,0:21:33.18,0:21:34.24,英文,,0000,0000,0000,,{\blur3}I would.
+Dialogue: 0,0:21:34.25,0:21:36.22,英文,,0000,0000,0000,,{\blur3}Hey, look. Check it out.
+Dialogue: 0,0:21:37.18,0:21:38.61,英文,,0000,0000,0000,,{\blur3}It's a Hunter-Warrior.
+Dialogue: 0,0:21:38.62,0:21:42.15,英文,,0000,0000,0000,,{\blur3}He's a bounty hunter. Named Zapan.
+Dialogue: 0,0:21:42.15,0:21:43.86,英文,,0000,0000,0000,,{\blur3}Scanning for his mark.
+Dialogue: 0,0:21:45.52,0:21:47.23,英文,,0000,0000,0000,,{\blur3}I wouldn't wanna be that guy.
+Dialogue: 0,0:21:48.76,0:21:50.73,英文,,0000,0000,0000,,{\blur3}Look at that sword.
+Dialogue: 0,0:21:51.56,0:21:53.73,英文,,0000,0000,0000,,{\blur3}All guns are out lawed in Iron City.
+Dialogue: 0,0:21:54.40,0:21:56.14,英文,,0000,0000,0000,,{\blur3}Punishable by death.
+Dialogue: 0,0:21:58.34,0:22:00.67,英文,,0000,0000,0000,,{\blur3}Anything that challenges Zalem.
+Dialogue: 0,0:22:25.53,0:22:28.23,英文,,0000,0000,0000,,{\blur3}Didn't I tell you to be homebe fore dark?
+Dialogue: 0,0:22:28.23,0:22:31.70,英文,,0000,0000,0000,,{\blur3}What's the big deal?I just lost track of time.
+Dialogue: 0,0:22:31.70,0:22:35.04,英文,,0000,0000,0000,,{\blur3}Yeah. Don't trust anyone.
+Dialogue: 0,0:22:35.04,0:22:37.91,英文,,0000,0000,0000,,{\blur3}People do terrible things to each other here.
+Dialogue: 0,0:22:38.68,0:22:40.34,英文,,0000,0000,0000,,{\blur3}What happened to your arm?
+Dialogue: 0,0:22:40.35,0:22:41.58,英文,,0000,0000,0000,,{\blur3}Here, eat this.
+Dialogue: 0,0:22:41.58,0:22:42.85,英文,,0000,0000,0000,,{\blur3}You okay?
+Dialogue: 0,0:22:48.95,0:22:51.36,英文,,0000,0000,0000,,{\blur3}You still need proper nourishment for your brain.
+Dialogue: 0,0:22:54.76,0:22:56.03,英文,,0000,0000,0000,,{\blur3}You have any chocolate?
+Dialogue: 0,0:23:01.13,0:23:02.73,英文,,0000,0000,0000,,{\blur3}It's a harsh world.
+Dialogue: 0,0:23:02.74,0:23:05.44,英文,,0000,0000,0000,,{\blur3}The strong prey on the weak down here.
+Dialogue: 0,0:23:05.44,0:23:07.64,英文,,0000,0000,0000,,{\blur3}You gotta stay focused on your dream.
+Dialogue: 0,0:23:08.57,0:23:10.31,英文,,0000,0000,0000,,{\blur3}What's your dream?
+Dialogue: 0,0:23:10.31,0:23:11.91,英文,,0000,0000,0000,,{\blur3}I'll show you.
+Dialogue: 0,0:23:31.46,0:23:33.67,英文,,0000,0000,0000,,{\blur3}This is my secret place.
+Dialogue: 0,0:23:34.70,0:23:36.07,英文,,0000,0000,0000,,{\blur3}Best view in town.
+Dialogue: 0,0:23:40.44,0:23:41.64,英文,,0000,0000,0000,,{\blur3}Wow.
+Dialogue: 0,0:23:43.21,0:23:44.34,英文,,0000,0000,0000,,{\blur3}Really cool.
+Dialogue: 0,0:23:45.14,0:23:46.75,英文,,0000,0000,0000,,{\blur3}No. Look.
+Dialogue: 0,0:23:47.45,0:23:48.75,英文,,0000,0000,0000,,{\blur3}That view.
+Dialogue: 0,0:23:50.05,0:23:51.05,英文,,0000,0000,0000,,{\blur3}Oh.
+Dialogue: 0,0:23:51.92,0:23:52.95,英文,,0000,0000,0000,,{\blur3}Right.
+Dialogue: 0,0:23:58.72,0:24:00.93,英文,,0000,0000,0000,,{\blur3}I wonder what it's like up there.
+Dialogue: 0,0:24:02.96,0:24:05.40,英文,,0000,0000,0000,,{\blur3}Better than this dump down here.
+Dialogue: 0,0:24:07.60,0:24:09.40,英文,,0000,0000,0000,,{\blur3}Listen.
+Dialogue: 0,0:24:12.07,0:24:15.27,英文,,0000,0000,0000,,{\blur3}It's stuff from the Factory going up to Zalem.
+Dialogue: 0,0:24:17.11,0:24:20.25,英文,,0000,0000,0000,,{\blur3}But the tubes are just for cargo, not for people.
+Dialogue: 0,0:24:21.58,0:24:23.01,英文,,0000,0000,0000,,{\blur3}If I was as strong as you,
+Dialogue: 0,0:24:23.02,0:24:25.48,英文,,0000,0000,0000,,{\blur3}I'd climb that tube to Zalem right now.
+Dialogue: 0,0:24:25.48,0:24:27.05,英文,,0000,0000,0000,,{\blur3}They don't let anybody up there.
+Dialogue: 0,0:24:27.05,0:24:29.52,英文,,0000,0000,0000,,{\blur3}Yeah, that's what they want you to think.
+Dialogue: 0,0:24:29.52,0:24:31.62,英文,,0000,0000,0000,,{\blur3}You just gotta know the right people.
+Dialogue: 0,0:24:31.62,0:24:33.96,英文,,0000,0000,0000,,{\blur3}- I happen to be connected.- Oh.
+Dialogue: 0,0:24:36.96,0:24:39.13,英文,,0000,0000,0000,,{\blur3}You gotta be willing to do what it takes.
+Dialogue: 0,0:24:42.17,0:24:43.87,英文,,0000,0000,0000,,{\blur3}Whatever it takes.
+Dialogue: 0,0:24:46.54,0:24:48.91,英文,,0000,0000,0000,,{\blur3}Funny thing is,you've seen it.
+Dialogue: 0,0:24:49.44,0:24:51.14,英文,,0000,0000,0000,,{\blur3}You just can't remember.
+Dialogue: 0,0:24:51.68,0:24:53.08,英文,,0000,0000,0000,,{\blur3}What do you mean?
+Dialogue: 0,0:24:55.75,0:24:57.45,英文,,0000,0000,0000,,{\blur3}Doc found you in the Scrapyard.
+Dialogue: 0,0:24:59.18,0:25:02.09,英文,,0000,0000,0000,,{\blur3}All that stuff is dumped from Zalem.
+Dialogue: 0,0:25:02.89,0:25:04.92,英文,,0000,0000,0000,,{\blur3}So you must be from up there.
+Dialogue: 0,0:25:10.33,0:25:11.76,英文,,0000,0000,0000,,{\blur3}I guess so.
+Dialogue: 0,0:25:12.93,0:25:15.43,英文,,0000,0000,0000,,{\blur3}If you could just tell me what those eyes have seen.
+Dialogue: 0,0:25:15.43,0:25:16.83,英文,,0000,0000,0000,,{\blur3}I wish I could.
+Dialogue: 0,0:25:16.84,0:25:19.04,英文,,0000,0000,0000,,{\blur3}I keep trying to remember, but...
+Dialogue: 0,0:25:19.84,0:25:22.97,英文,,0000,0000,0000,,{\blur3}It's still a blank.
+Dialogue: 0,0:25:22.98,0:25:25.38,英文,,0000,0000,0000,,{\blur3}I'm starting to feel like I wasn't very important.
+Dialogue: 0,0:25:26.68,0:25:27.94,英文,,0000,0000,0000,,{\blur3}Just an insignificant girl
+Dialogue: 0,0:25:27.95,0:25:30.18,英文,,0000,0000,0000,,{\blur3}thrown out with the rest of the garbage.
+Dialogue: 0,0:27:12.52,0:27:14.42,英文,,0000,0000,0000,,{\blur3}- No! Stop!- Alita!
+Dialogue: 0,0:27:14.42,0:27:15.42,英文,,0000,0000,0000,,{\blur3}Don't do it!
+Dialogue: 0,0:27:16.35,0:27:17.36,英文,,0000,0000,0000,,{\blur3}Oh, no.
+Dialogue: 0,0:27:18.22,0:27:19.65,英文,,0000,0000,0000,,{\blur3}It's a trap.
+Dialogue: 0,0:27:19.66,0:27:23.39,英文,,0000,0000,0000,,{\blur3}Looking for me, Doctor?
+Dialogue: 0,0:27:23.39,0:27:27.90,英文,,0000,0000,0000,,{\blur3}Or should I say,Hunter-Warrior?
+Dialogue: 0,0:27:27.90,0:27:29.33,英文,,0000,0000,0000,,{\blur3}"Hunter-Warrior"?
+Dialogue: 0,0:27:33.87,0:27:35.90,英文,,0000,0000,0000,,{\blur3}Oh, no.
+Dialogue: 0,0:27:35.91,0:27:38.94,英文,,0000,0000,0000,,{\blur3}Looks like he's got us.
+Dialogue: 0,0:27:40.95,0:27:42.35,英文,,0000,0000,0000,,{\blur3}Don't move.
+Dialogue: 0,0:27:44.08,0:27:46.15,英文,,0000,0000,0000,,{\blur3}Hey, thanks for bringing a girl.
+Dialogue: 0,0:27:46.15,0:27:48.35,英文,,0000,0000,0000,,{\blur3}That's gonna save us some time.
+Dialogue: 0,0:28:01.77,0:28:05.90,英文,,0000,0000,0000,,{\blur3}Nice shot, for a Meat-Boy.
+Dialogue: 0,0:28:15.35,0:28:17.25,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,0:28:18.85,0:28:21.02,英文,,0000,0000,0000,,{\blur3}You came to rescue me?
+Dialogue: 0,0:28:21.89,0:28:24.56,英文,,0000,0000,0000,,{\blur3}That is so sweet.
+Dialogue: 0,0:28:27.13,0:28:28.96,英文,,0000,0000,0000,,{\blur3}You have nice eyes.
+Dialogue: 0,0:28:28.96,0:28:32.16,英文,,0000,0000,0000,,{\blur3}He's mine.You can have the girl.
+Dialogue: 0,0:28:34.97,0:28:36.70,英文,,0000,0000,0000,,{\blur3}So long as I get his eyes.
+Dialogue: 0,0:28:36.70,0:28:37.70,英文,,0000,0000,0000,,{\blur3}Alita, run!
+Dialogue: 0,0:28:55.22,0:28:56.35,英文,,0000,0000,0000,,{\blur3}My God.
+Dialogue: 0,0:28:58.59,0:29:00.43,英文,,0000,0000,0000,,{\blur3}Rip that flea!
+Dialogue: 0,0:29:06.27,0:29:08.40,英文,,0000,0000,0000,,{\blur3}You are so beautiful.
+Dialogue: 0,0:29:09.57,0:29:14.24,英文,,0000,0000,0000,,{\blur3}I wanna rip you open and see if you're ugly inside.
+Dialogue: 0,0:29:16.48,0:29:17.48,英文,,0000,0000,0000,,{\blur3}Like the others.
+Dialogue: 0,0:29:36.63,0:29:38.30,英文,,0000,0000,0000,,{\blur3}Watch her die.
+Dialogue: 0,0:30:22.14,0:30:24.24,英文,,0000,0000,0000,,{\blur3}Come here, little flea...
+Dialogue: 0,0:30:24.24,0:30:26.64,英文,,0000,0000,0000,,{\blur3}so I can pinch your head off.
+Dialogue: 0,0:30:44.60,0:30:46.20,英文,,0000,0000,0000,,{\blur3}Hi-yah!
+Dialogue: 0,0:30:53.94,0:30:55.44,英文,,0000,0000,0000,,{\blur3}99!
+Dialogue: 0,0:30:55.44,0:30:56.64,英文,,0000,0000,0000,,{\blur3}On your left!
+Dialogue: 0,0:31:01.85,0:31:03.38,英文,,0000,0000,0000,,{\blur3}Hi-yah!
+Dialogue: 0,0:31:15.99,0:31:18.66,英文,,0000,0000,0000,,{\blur3}You'll pay, little flea.
+Dialogue: 0,0:31:18.66,0:31:20.47,英文,,0000,0000,0000,,{\blur3}Grewishka does not forget.
+Dialogue: 0,0:31:21.13,0:31:22.50,英文,,0000,0000,0000,,{\blur3}I'm coming for you.
+Dialogue: 0,0:31:25.44,0:31:26.54,英文,,0000,0000,0000,,{\blur3}Both.
+Dialogue: 0,0:31:34.91,0:31:37.45,英文,,0000,0000,0000,,{\blur3}Grewishka does not forget!
+Dialogue: 0,0:31:40.72,0:31:43.75,英文,,0000,0000,0000,,{\blur3}When I was fighting,I remembered something.
+Dialogue: 0,0:31:43.76,0:31:45.69,英文,,0000,0000,0000,,{\blur3}I was in a huge battle.
+Dialogue: 0,0:31:45.69,0:31:47.29,英文,,0000,0000,0000,,{\blur3}You surprised me.
+Dialogue: 0,0:31:47.29,0:31:49.19,英文,,0000,0000,0000,,{\blur3}Well,you surprised me, too.
+Dialogue: 0,0:31:50.76,0:31:52.56,英文,,0000,0000,0000,,{\blur3}Before The Fall...
+Dialogue: 0,0:31:52.56,0:31:56.20,英文,,0000,0000,0000,,{\blur3}there were police to stop criminals.
+Dialogue: 0,0:31:56.20,0:31:59.54,英文,,0000,0000,0000,,{\blur3}Now, the Factory pays us to do the dirty work.
+Dialogue: 0,0:32:01.01,0:32:04.24,英文,,0000,0000,0000,,{\blur3}Hunter-Warrior 17739.
+Dialogue: 0,0:32:04.88,0:32:06.81,英文,,0000,0000,0000,,{\blur3}You are a Hunter-Warrior.
+Dialogue: 0,0:32:11.15,0:32:12.55,英文,,0000,0000,0000,,{\blur3}You stay here.
+Dialogue: 0,0:32:13.35,0:32:14.79,英文,,0000,0000,0000,,{\blur3}Don't kill anyone.
+Dialogue: 0,0:32:45.62,0:32:49.19,英文,,0000,0000,0000,,{\blur3}Bounty for the cyborg Nyssiana was 20,000 credits.
+Dialogue: 0,0:32:53.56,0:32:56.09,英文,,0000,0000,0000,,{\blur3}You should've told me who you really are.
+Dialogue: 0,0:32:56.09,0:32:58.06,英文,,0000,0000,0000,,{\blur3}And do you do it for the money?
+Dialogue: 0,0:32:58.06,0:33:00.40,英文,,0000,0000,0000,,{\blur3}I take the money.
+Dialogue: 0,0:33:00.40,0:33:03.40,英文,,0000,0000,0000,,{\blur3}Otherwise the clinic would've closed long ago.
+Dialogue: 0,0:33:03.40,0:33:04.97,英文,,0000,0000,0000,,{\blur3}I do this work for other reasons
+Dialogue: 0,0:33:04.97,0:33:06.24,英文,,0000,0000,0000,,{\blur3}I'd rather not talk about.
+Dialogue: 0,0:33:06.24,0:33:08.34,英文,,0000,0000,0000,,{\blur3}You have to talk about it.
+Dialogue: 0,0:33:08.34,0:33:10.54,英文,,0000,0000,0000,,{\blur3}Something during the fight triggered a memory.
+Dialogue: 0,0:33:11.28,0:33:13.78,英文,,0000,0000,0000,,{\blur3}I was on the moon.
+Dialogue: 0,0:33:13.78,0:33:16.41,英文,,0000,0000,0000,,{\blur3}You know more about me than you're saying.
+Dialogue: 0,0:33:17.28,0:33:18.98,英文,,0000,0000,0000,,{\blur3}Whose body is this?
+Dialogue: 0,0:33:20.59,0:33:21.69,英文,,0000,0000,0000,,{\blur3}Who am I?
+Dialogue: 0,0:33:31.90,0:33:33.80,英文,,0000,0000,0000,,{\blur3}This was your daughter?
+Dialogue: 0,0:33:37.43,0:33:39.37,英文,,0000,0000,0000,,{\blur3}You built this body for her?
+Dialogue: 0,0:33:40.77,0:33:42.87,英文,,0000,0000,0000,,{\blur3}Her name was Alita.
+Dialogue: 0,0:33:42.87,0:33:44.97,英文,,0000,0000,0000,,{\blur3}She was really looking forward to waking up
+Dialogue: 0,0:33:44.98,0:33:46.61,英文,,0000,0000,0000,,{\blur3}with legs that could run.
+Dialogue: 0,0:33:50.41,0:33:52.75,英文,,0000,0000,0000,,{\blur3}You built her a pair of fast legs.
+Dialogue: 0,0:33:55.49,0:33:57.69,英文,,0000,0000,0000,,{\blur3}She never got to use them.
+Dialogue: 0,0:33:58.79,0:34:00.63,英文,,0000,0000,0000,,{\blur3}She was murdered.
+Dialogue: 0,0:34:02.26,0:34:03.53,英文,,0000,0000,0000,,{\blur3}What happened?
+Dialogue: 0,0:34:05.30,0:34:07.83,英文,,0000,0000,0000,,{\blur3}A patient of mine came to the clinic one night,
+Dialogue: 0,0:34:07.83,0:34:09.33,英文,,0000,0000,0000,,{\blur3}looking for drugs.
+Dialogue: 0,0:34:10.54,0:34:13.00,英文,,0000,0000,0000,,{\blur3}{\i1}I was a tuner for the Motorball games...{\i}
+Dialogue: 0,0:34:13.00,0:34:17.34,英文,,0000,0000,0000,,{\blur3}{\i1}and I had made a machine body for him of obscene  strength.{\i}
+Dialogue: 0,0:34:21.38,0:34:24.58,英文,,0000,0000,0000,,{\blur3}{\i1}He was my demon,coming back to me.{\i}
+Dialogue: 0,0:34:24.58,0:34:26.85,英文,,0000,0000,0000,,{\blur3}Hey! What are you doing there?
+Dialogue: 0,0:34:40.73,0:34:43.47,英文,,0000,0000,0000,,{\blur3}{\i1}Alita couldn't get out of the way fast enough.{\i}
+Dialogue: 0,0:34:45.27,0:34:47.47,英文,,0000,0000,0000,,{\blur3}{\i1}Her mother, Chiren,{\i}
+Dialogue: 0,0:34:47.47,0:34:49.67,英文,,0000,0000,0000,,{\blur3}{\i1}couldn't deal with Alita's death.{\i}
+Dialogue: 0,0:34:52.48,0:34:54.95,英文,,0000,0000,0000,,{\blur3}Maybe she just couldn't deal with me.
+Dialogue: 0,0:34:58.25,0:34:59.88,英文,,0000,0000,0000,,{\blur3}So I went hunting.
+Dialogue: 0,0:35:01.99,0:35:03.79,英文,,0000,0000,0000,,{\blur3}{\i1}I needed to kill him.{\i}
+Dialogue: 0,0:35:05.79,0:35:09.09,英文,,0000,0000,0000,,{\blur3}{\i1}Maybe I was just hoping that he would kill me.{\i}
+Dialogue: 0,0:35:09.09,0:35:11.03,英文,,0000,0000,0000,,{\blur3}It brought no peace.
+Dialogue: 0,0:35:11.03,0:35:13.13,英文,,0000,0000,0000,,{\blur3}There were other demons like him out there...
+Dialogue: 0,0:35:13.13,0:35:17.54,英文,,0000,0000,0000,,{\blur3}and I felt, somehow, I was responsible for all of them.
+Dialogue: 0,0:35:18.64,0:35:21.07,英文,,0000,0000,0000,,{\blur3}So I registered as a Hunter-Warrior.
+Dialogue: 0,0:35:21.07,0:35:23.08,英文,,0000,0000,0000,,{\blur3}There's nothing noble about it.
+Dialogue: 0,0:35:25.21,0:35:27.08,英文,,0000,0000,0000,,{\blur3}Did you ever find peace?
+Dialogue: 0,0:35:29.41,0:35:31.02,英文,,0000,0000,0000,,{\blur3}I found you.
+Dialogue: 0,0:35:33.29,0:35:34.52,英文,,0000,0000,0000,,{\blur3}I'm not your daughter.
+Dialogue: 0,0:35:37.56,0:35:39.09,英文,,0000,0000,0000,,{\blur3}I don't know what I am.
+Dialogue: 0,0:35:40.29,0:35:42.69,英文,,0000,0000,0000,,{\blur3}I do.
+Dialogue: 0,0:35:42.69,0:35:45.00,英文,,0000,0000,0000,,{\blur3}Have a look at your original Cyber-core.
+Dialogue: 0,0:35:46.53,0:35:48.50,英文,,0000,0000,0000,,{\blur3}This is your brain.
+Dialogue: 0,0:35:48.50,0:35:51.80,英文,,0000,0000,0000,,{\blur3}A normal healthy teenage girl's brain.
+Dialogue: 0,0:35:52.54,0:35:54.47,英文,,0000,0000,0000,,{\blur3}If there is such a thing.
+Dialogue: 0,0:35:56.04,0:35:58.07,英文,,0000,0000,0000,,{\blur3}But this is your heart.
+Dialogue: 0,0:35:58.08,0:36:00.61,英文,,0000,0000,0000,,{\blur3}Part of your original core...
+Dialogue: 0,0:36:00.61,0:36:04.75,英文,,0000,0000,0000,,{\blur3}powered by an Anti-Matter Micro-Reactor.
+Dialogue: 0,0:36:04.75,0:36:07.58,英文,,0000,0000,0000,,{\blur3}So I've got a strong heart?
+Dialogue: 0,0:36:07.58,0:36:08.65,英文,,0000,0000,0000,,{\blur3}You have a heart strong enough
+Dialogue: 0,0:36:08.65,0:36:11.56,英文,,0000,0000,0000,,{\blur3}to power all of Iron City for years.
+Dialogue: 0,0:36:13.89,0:36:15.63,英文,,0000,0000,0000,,{\blur3}This is lost technology.
+Dialogue: 0,0:36:15.63,0:36:17.83,英文,,0000,0000,0000,,{\blur3}Nobody's made this stuff since...
+Dialogue: 0,0:36:19.10,0:36:20.26,英文,,0000,0000,0000,,{\blur3}before The Fall.
+Dialogue: 0,0:36:20.27,0:36:22.10,英文,,0000,0000,0000,,{\blur3}Yeah, right.
+Dialogue: 0,0:36:23.17,0:36:24.97,英文,,0000,0000,0000,,{\blur3}So I'm 300 years old?
+Dialogue: 0,0:36:25.87,0:36:27.87,英文,,0000,0000,0000,,{\blur3}Sweetheart, you are.
+Dialogue: 0,0:36:44.69,0:36:47.66,英文,,0000,0000,0000,,{\blur3}I don't want my players losing unless I tell them to.
+Dialogue: 0,0:36:48.76,0:36:51.53,英文,,0000,0000,0000,,{\blur3}It can't be left to chance.
+Dialogue: 0,0:36:51.53,0:36:53.46,英文,,0000,0000,0000,,{\blur3}You promised me champions.
+Dialogue: 0,0:36:53.46,0:36:56.33,英文,,0000,0000,0000,,{\blur3}And you promised me the best of everything.
+Dialogue: 0,0:36:56.33,0:36:58.87,英文,,0000,0000,0000,,{\blur3}Get those military servos I asked for.
+Dialogue: 0,0:36:58.87,0:37:00.81,英文,,0000,0000,0000,,{\blur3}You don't have a winning attitude.
+Dialogue: 0,0:37:01.64,0:37:04.48,英文,,0000,0000,0000,,{\blur3}Just be ready for tomorrow's game.
+Dialogue: 0,0:37:28.50,0:37:29.63,英文,,0000,0000,0000,,{\blur3}Help me.
+Dialogue: 0,0:37:29.63,0:37:31.07,英文,,0000,0000,0000,,{\blur3}Grewishka?
+Dialogue: 0,0:37:32.54,0:37:35.14,英文,,0000,0000,0000,,{\blur3}Why should I waste my talent on you?
+Dialogue: 0,0:37:35.14,0:37:37.14,英文,,0000,0000,0000,,{\blur3}Look what she's done to me.
+Dialogue: 0,0:37:38.18,0:37:40.88,英文,,0000,0000,0000,,{\blur3}Ido's little cyber girl.
+Dialogue: 0,0:37:44.42,0:37:46.12,英文,,0000,0000,0000,,{\blur3}What did you say?
+Dialogue: 0,0:37:49.99,0:37:54.69,英文,,0000,0000,0000,,{\blur3}{\i1}The woman in my memory called me 99.{\i}
+Dialogue: 0,0:37:54.69,0:37:59.30,英文,,0000,0000,0000,,{\blur3}{\i1}What you saw was a flash of your previous life.{\i}
+Dialogue: 0,0:37:59.30,0:38:00.80,英文,,0000,0000,0000,,{\blur3}{\i1}Who was I?{\i}
+Dialogue: 0,0:38:00.80,0:38:02.63,英文,,0000,0000,0000,,{\blur3}{\i1}In time, you'll remember.{\i}
+Dialogue: 0,0:38:48.05,0:38:49.55,英文,,0000,0000,0000,,{\blur3}I wanna rip her in half.
+Dialogue: 0,0:38:50.38,0:38:51.58,英文,,0000,0000,0000,,{\blur3}Grewishka.
+Dialogue: 0,0:38:53.25,0:38:55.62,英文,,0000,0000,0000,,{\blur3}Oh, how the mighty have fallen.
+Dialogue: 0,0:38:56.62,0:38:58.39,英文,,0000,0000,0000,,{\blur3}Are we stripping him for parts?
+Dialogue: 0,0:38:58.39,0:38:59.86,英文,,0000,0000,0000,,{\blur3}I need you to look at something.
+Dialogue: 0,0:39:03.60,0:39:05.93,英文,,0000,0000,0000,,{\blur3}It's a Telepresence Chip.He's wired.
+Dialogue: 0,0:39:05.93,0:39:08.30,英文,,0000,0000,0000,,{\blur3}Somebody in Zalem is riding him.
+Dialogue: 0,0:39:08.30,0:39:11.53,英文,,0000,0000,0000,,{\blur3}There are watchers behind the eyes all over the city.
+Dialogue: 0,0:39:11.54,0:39:12.70,英文,,0000,0000,0000,,{\blur3}Pretty common now.
+Dialogue: 0,0:39:12.70,0:39:14.31,英文,,0000,0000,0000,,{\blur3}I'd just as soon remove it...
+Dialogue: 0,0:39:14.91,0:39:16.34,英文,,0000,0000,0000,,{\blur3}while I'm rebuilding him.
+Dialogue: 0,0:39:16.34,0:39:17.54,英文,,0000,0000,0000,,{\blur3}Why are you wasting time
+Dialogue: 0,0:39:17.54,0:39:19.61,英文,,0000,0000,0000,,{\blur3}on this burnt-out street junk?
+Dialogue: 0,0:39:19.61,0:39:21.01,英文,,0000,0000,0000,,{\blur3}It's a personal matter.
+Dialogue: 0,0:39:21.01,0:39:23.81,英文,,0000,0000,0000,,{\blur3}Do you like your job, Vector?
+Dialogue: 0,0:39:24.71,0:39:26.55,英文,,0000,0000,0000,,{\blur3}If you like your position
+Dialogue: 0,0:39:26.55,0:39:28.72,英文,,0000,0000,0000,,{\blur3}and the many comforts that come with it...
+Dialogue: 0,0:39:28.72,0:39:32.86,英文,,0000,0000,0000,,{\blur3}I strongly suggest you listen to Dr. Chiren.
+Dialogue: 0,0:39:34.89,0:39:35.96,英文,,0000,0000,0000,,{\blur3}Nova.
+Dialogue: 0,0:39:37.29,0:39:38.66,英文,,0000,0000,0000,,{\blur3}My apologies.
+Dialogue: 0,0:39:39.40,0:39:42.10,英文,,0000,0000,0000,,{\blur3}Who did this to Grewishka?
+Dialogue: 0,0:39:42.10,0:39:43.84,英文,,0000,0000,0000,,{\blur3}A little cyborg girl.
+Dialogue: 0,0:39:44.67,0:39:45.80,英文,,0000,0000,0000,,{\blur3}Though the impact points
+Dialogue: 0,0:39:45.80,0:39:47.71,英文,,0000,0000,0000,,{\blur3}are evidence of extraordinary power...
+Dialogue: 0,0:39:49.44,0:39:51.07,英文,,0000,0000,0000,,{\blur3}I don't understand how she could create
+Dialogue: 0,0:39:51.08,0:39:53.71,英文,,0000,0000,0000,,{\blur3}such force with such a small body.
+Dialogue: 0,0:39:53.71,0:39:57.31,英文,,0000,0000,0000,,{\blur3}It was not the power of the body that did this.
+Dialogue: 0,0:39:57.31,0:39:58.41,英文,,0000,0000,0000,,{\blur3}It was the mind.
+Dialogue: 0,0:39:58.42,0:40:02.79,英文,,0000,0000,0000,,{\blur3}She knows the fighting techniques of Panzer Kunst.
+Dialogue: 0,0:40:02.79,0:40:04.69,英文,,0000,0000,0000,,{\blur3}Rebuild Grewishka.
+Dialogue: 0,0:40:04.69,0:40:06.89,英文,,0000,0000,0000,,{\blur3}Have him bring her to me.
+Dialogue: 0,0:40:07.36,0:40:08.36,英文,,0000,0000,0000,,{\blur3}Dead.
+Dialogue: 0,0:40:17.13,0:40:18.14,英文,,0000,0000,0000,,{\blur3}He's gone.
+Dialogue: 0,0:40:19.47,0:40:21.21,英文,,0000,0000,0000,,{\blur3}Not gone.
+Dialogue: 0,0:40:22.34,0:40:23.87,英文,,0000,0000,0000,,{\blur3}Repatched.
+Dialogue: 0,0:40:25.54,0:40:27.75,英文,,0000,0000,0000,,{\blur3}You're a clever woman, Doctor.
+Dialogue: 0,0:40:29.31,0:40:32.42,英文,,0000,0000,0000,,{\blur3}And determined to reach your goal at any cost.
+Dialogue: 0,0:40:35.45,0:40:37.82,英文,,0000,0000,0000,,{\blur3}So I'll make you this offer.
+Dialogue: 0,0:40:37.82,0:40:40.76,英文,,0000,0000,0000,,{\blur3}If and when you have pleased me...
+Dialogue: 0,0:40:40.76,0:40:43.66,英文,,0000,0000,0000,,{\blur3}I will grant you the destiny you seek.
+Dialogue: 0,0:40:44.29,0:40:45.36,英文,,0000,0000,0000,,{\blur3}Zalem.
+Dialogue: 0,0:40:47.23,0:40:48.80,英文,,0000,0000,0000,,{\blur3}You'll send me to Zalem?
+Dialogue: 0,0:40:48.80,0:40:50.80,英文,,0000,0000,0000,,{\blur3}I'm there right now.
+Dialogue: 0,0:40:52.37,0:40:54.97,英文,,0000,0000,0000,,{\blur3}Consider my services engaged.
+Dialogue: 0,0:41:15.03,0:41:17.02,英文,,0000,0000,0000,,{\blur3}There is no bounty on Grewishka.
+Dialogue: 0,0:41:17.03,0:41:19.80,英文,,0000,0000,0000,,{\blur3}But you reported it to the Factory.
+Dialogue: 0,0:41:19.80,0:41:21.53,英文,,0000,0000,0000,,{\blur3}Him killing all of those women...
+Dialogue: 0,0:41:21.53,0:41:23.10,英文,,0000,0000,0000,,{\blur3}Somebody's protecting him.
+Dialogue: 0,0:41:23.10,0:41:25.07,英文,,0000,0000,0000,,{\blur3}Who has the power to do that?
+Dialogue: 0,0:41:27.37,0:41:29.77,英文,,0000,0000,0000,,{\blur3}Someone far beyond us here.
+Dialogue: 0,0:41:31.71,0:41:34.11,英文,,0000,0000,0000,,{\blur3}We better stay off the street for now.
+Dialogue: 0,0:41:35.55,0:41:37.78,英文,,0000,0000,0000,,{\blur3}I wanna be a Hunter-Warrior like you.
+Dialogue: 0,0:41:38.58,0:41:40.28,英文,,0000,0000,0000,,{\blur3}Alita, that's impossible.
+Dialogue: 0,0:41:40.29,0:41:41.75,英文,,0000,0000,0000,,{\blur3}We could be a team.
+Dialogue: 0,0:41:41.75,0:41:43.59,英文,,0000,0000,0000,,{\blur3}Alita, this is dangerous,dirty work.
+Dialogue: 0,0:41:43.59,0:41:45.39,英文,,0000,0000,0000,,{\blur3}- I know.- No, you don't.
+Dialogue: 0,0:41:45.39,0:41:46.92,英文,,0000,0000,0000,,{\blur3}How is that your choice to make?
+Dialogue: 0,0:41:47.66,0:41:48.79,英文,,0000,0000,0000,,{\blur3}It's out of the question.
+Dialogue: 0,0:41:48.79,0:41:50.66,英文,,0000,0000,0000,,{\blur3}I might need a life-or-death situation
+Dialogue: 0,0:41:50.66,0:41:51.96,英文,,0000,0000,0000,,{\blur3}to remember who I was.
+Dialogue: 0,0:41:51.96,0:41:54.10,英文,,0000,0000,0000,,{\blur3}Even if it's just for a second.
+Dialogue: 0,0:41:54.10,0:41:56.27,英文,,0000,0000,0000,,{\blur3}Alita, some things are better left forgotten.
+Dialogue: 0,0:41:56.27,0:41:59.20,英文,,0000,0000,0000,,{\blur3}I don't want blood on these hands, too.
+Dialogue: 0,0:41:59.20,0:42:01.11,英文,,0000,0000,0000,,{\blur3}Then I'll find out for myself.
+Dialogue: 0,0:42:01.54,0:42:03.07,英文,,0000,0000,0000,,{\blur3}Alita.
+Dialogue: 0,0:42:07.88,0:42:09.48,英文,,0000,0000,0000,,{\blur3}I'm just tired of it.
+Dialogue: 0,0:42:09.48,0:42:12.21,英文,,0000,0000,0000,,{\blur3}He just wants me to be his perfect little girl.
+Dialogue: 0,0:42:12.22,0:42:15.28,英文,,0000,0000,0000,,{\blur3}So, you gonna live by his rules or yours?
+Dialogue: 0,0:42:15.29,0:42:16.45,英文,,0000,0000,0000,,{\blur3}{\i1}What a battle!{\i}
+Dialogue: 0,0:42:16.45,0:42:19.69,英文,,0000,0000,0000,,{\blur3}{\i1}These two have been going at each other all match.{\i}
+Dialogue: 0,0:42:19.69,0:42:21.42,英文,,0000,0000,0000,,{\blur3}Welcome to Motorball.
+Dialogue: 0,0:42:27.83,0:42:30.40,英文,,0000,0000,0000,,{\blur3}{\i1}Jashugan has got the ball.{\i}
+Dialogue: 0,0:42:32.00,0:42:33.84,英文,,0000,0000,0000,,{\blur3}{\i1}Claymore attacks!{\i}
+Dialogue: 0,0:42:35.71,0:42:37.88,英文,,0000,0000,0000,,{\blur3}{\i1}Jashugan takes him out!{\i}
+Dialogue: 0,0:42:46.92,0:42:50.02,英文,,0000,0000,0000,,{\blur3}{\i1}Masakus sends Jashugan flying!{\i}
+Dialogue: 0,0:42:52.09,0:42:55.03,英文,,0000,0000,0000,,{\blur3}{\i1}Kutty now with the ball,one point.{\i}
+Dialogue: 0,0:42:55.76,0:42:58.06,英文,,0000,0000,0000,,{\blur3}{\i1}Zariki is in hot pursuit.{\i}
+Dialogue: 0,0:43:05.70,0:43:08.54,英文,,0000,0000,0000,,{\blur3}- {\i1}Wipe out, Zariki!{\i}- Whoo!
+Dialogue: 0,0:43:13.01,0:43:15.95,英文,,0000,0000,0000,,{\blur3}{\i1}And he throws Kutty like a rag doll!{\i}
+Dialogue: 0,0:43:24.72,0:43:27.26,英文,,0000,0000,0000,,{\blur3}Come on.Let me show you something.
+Dialogue: 0,0:43:31.06,0:43:32.90,英文,,0000,0000,0000,,{\blur3}I know all the pit crews and tuners.
+Dialogue: 0,0:43:32.90,0:43:34.17,英文,,0000,0000,0000,,{\blur3}I'll introduce you around.
+Dialogue: 0,0:43:36.30,0:43:37.87,英文,,0000,0000,0000,,{\blur3}Who's the top player?
+Dialogue: 0,0:43:40.47,0:43:41.47,英文,,0000,0000,0000,,{\blur3}Right now, I'd say Jashugan
+Dialogue: 0,0:43:41.47,0:43:43.64,英文,,0000,0000,0000,,{\blur3}has the best chance of making Final Champion.
+Dialogue: 0,0:43:43.64,0:43:46.04,英文,,0000,0000,0000,,{\blur3}Camber's still off in the left bogie.
+Dialogue: 0,0:43:46.04,0:43:48.84,英文,,0000,0000,0000,,{\blur3}I was oversteering in turn six.
+Dialogue: 0,0:43:48.85,0:43:50.38,英文,,0000,0000,0000,,{\blur3}What's Final Champion?
+Dialogue: 0,0:43:50.38,0:43:53.11,英文,,0000,0000,0000,,{\blur3}It's the best thing a Motorball player can win.
+Dialogue: 0,0:43:53.12,0:43:56.05,英文,,0000,0000,0000,,{\blur3}Every few years, they choose a player that can't be beaten...
+Dialogue: 0,0:43:56.05,0:43:57.79,英文,,0000,0000,0000,,{\blur3}and he gets to go to Zalem.
+Dialogue: 0,0:43:57.79,0:43:59.36,英文,,0000,0000,0000,,{\blur3}Hey, Hugo.
+Dialogue: 0,0:43:59.36,0:44:02.36,英文,,0000,0000,0000,,{\blur3}Slow is smooth,smooth is fast.
+Dialogue: 0,0:44:02.36,0:44:03.86,英文,,0000,0000,0000,,{\blur3}Do it once, do it right.
+Dialogue: 0,0:44:03.86,0:44:06.06,英文,,0000,0000,0000,,{\blur3}Juggernaut needs to pit,right now.
+Dialogue: 0,0:44:06.66,0:44:08.10,英文,,0000,0000,0000,,{\blur3}Do you like to lose?
+Dialogue: 0,0:44:08.10,0:44:10.03,英文,,0000,0000,0000,,{\blur3}Then get him in here.
+Dialogue: 0,0:44:11.87,0:44:14.94,英文,,0000,0000,0000,,{\blur3}Claymore is a rebuild.Why is he not tracking?
+Dialogue: 0,0:44:17.71,0:44:19.27,英文,,0000,0000,0000,,{\blur3}Alita's here.
+Dialogue: 0,0:44:19.28,0:44:20.88,英文,,0000,0000,0000,,{\blur3}That's Vector.
+Dialogue: 0,0:44:20.88,0:44:22.78,英文,,0000,0000,0000,,{\blur3}He basically runs Motorball.
+Dialogue: 0,0:44:22.78,0:44:24.85,英文,,0000,0000,0000,,{\blur3}We do a lot of business with his team.
+Dialogue: 0,0:44:24.85,0:44:26.65,英文,,0000,0000,0000,,{\blur3}Selling parts to him and his new tuner.
+Dialogue: 0,0:44:26.65,0:44:27.82,英文,,0000,0000,0000,,{\blur3}Chiren.
+Dialogue: 0,0:44:27.82,0:44:29.29,英文,,0000,0000,0000,,{\blur3}Let's go, guys. Come on,get me back out there.
+Dialogue: 0,0:44:29.29,0:44:31.62,英文,,0000,0000,0000,,{\blur3}What? You're not the only one with connections.
+Dialogue: 0,0:44:32.89,0:44:35.46,英文,,0000,0000,0000,,{\blur3}{\i1}Kutty closing inon Juggernaut.{\i}
+Dialogue: 0,0:44:37.36,0:44:39.66,英文,,0000,0000,0000,,{\blur3}{\i1}Kinuba has Kutty in his sights.{\i}
+Dialogue: 0,0:44:52.14,0:44:53.81,英文,,0000,0000,0000,,{\blur3}{\i1}Oh! Kinuba went through him{\i}
+Dialogue: 0,0:44:53.81,0:44:56.71,英文,,0000,0000,0000,,{\blur3}{\i1}like laundry with those Grindcutters.{\i}
+Dialogue: 0,0:44:56.71,0:44:58.65,英文,,0000,0000,0000,,{\blur3}{\i1}Is that weapon even legal?{\i}
+Dialogue: 0,0:45:02.82,0:45:04.75,英文,,0000,0000,0000,,{\blur3}Kinuba's too strong with that new weapon.
+Dialogue: 0,0:45:04.75,0:45:06.66,英文,,0000,0000,0000,,{\blur3}He's screwing up the odds.
+Dialogue: 0,0:45:07.56,0:45:09.29,英文,,0000,0000,0000,,{\blur3}You know...
+Dialogue: 0,0:45:09.29,0:45:11.66,英文,,0000,0000,0000,,{\blur3}I could really use his Grindcutters...
+Dialogue: 0,0:45:12.66,0:45:14.23,英文,,0000,0000,0000,,{\blur3}for our other project.
+Dialogue: 0,0:45:17.40,0:45:19.60,英文,,0000,0000,0000,,{\blur3}{\i1}Crimson Wind making her way through the field.{\i}
+Dialogue: 0,0:45:19.60,0:45:20.64,英文,,0000,0000,0000,,{\blur3}So, what do you think?
+Dialogue: 0,0:45:24.31,0:45:25.51,英文,,0000,0000,0000,,{\blur3}I like it.
+Dialogue: 0,0:45:27.75,0:45:29.64,英文,,0000,0000,0000,,{\blur3}Yo, Hugo. We gotta go.
+Dialogue: 0,0:45:29.65,0:45:31.28,英文,,0000,0000,0000,,{\blur3}Hey, something's come up.
+Dialogue: 0,0:45:31.28,0:45:33.58,英文,,0000,0000,0000,,{\blur3}- Where are you going?- I just gotta do something.
+Dialogue: 0,0:45:33.58,0:45:35.19,英文,,0000,0000,0000,,{\blur3}Can you get back okay?
+Dialogue: 0,0:45:35.92,0:45:37.46,英文,,0000,0000,0000,,{\blur3}Yeah, sure.
+Dialogue: 0,0:45:38.49,0:45:40.52,英文,,0000,0000,0000,,{\blur3}Can you go out tomorrow?
+Dialogue: 0,0:45:40.52,0:45:42.12,英文,,0000,0000,0000,,{\blur3}I wanna show you this place me and Tanji know.
+Dialogue: 0,0:45:42.13,0:45:43.89,英文,,0000,0000,0000,,{\blur3}It's out in the Badlands.
+Dialogue: 0,0:45:43.90,0:45:45.40,英文,,0000,0000,0000,,{\blur3}It might help with your memory.
+Dialogue: 0,0:45:46.50,0:45:47.67,英文,,0000,0000,0000,,{\blur3}I'd appreciate that.
+Dialogue: 0,0:45:48.46,0:45:49.90,英文,,0000,0000,0000,,{\blur3}Thanks.
+Dialogue: 0,0:45:49.90,0:45:51.34,英文,,0000,0000,0000,,{\blur3}For everything.
+Dialogue: 0,0:45:53.30,0:45:56.31,英文,,0000,0000,0000,,{\blur3}{\i1}Wow!He is throwing down!{\i}
+Dialogue: 0,0:45:58.84,0:46:01.08,英文,,0000,0000,0000,,{\blur3}Whoo!
+Dialogue: 0,0:46:07.62,0:46:08.62,英文,,0000,0000,0000,,{\blur3}Oh, shit!
+Dialogue: 0,0:46:09.75,0:46:11.06,英文,,0000,0000,0000,,{\blur3}- What the hell?- Shit.
+Dialogue: 0,0:46:29.64,0:46:31.17,英文,,0000,0000,0000,,{\blur3}Hurry up!
+Dialogue: 0,0:46:34.51,0:46:35.51,英文,,0000,0000,0000,,{\blur3}You're dead!
+Dialogue: 0,0:46:38.45,0:46:39.82,英文,,0000,0000,0000,,{\blur3}You little runts!
+Dialogue: 0,0:46:39.82,0:46:41.45,英文,,0000,0000,0000,,{\blur3}I'm gonna smash your skulls!
+Dialogue: 0,0:46:47.99,0:46:49.76,英文,,0000,0000,0000,,{\blur3}You can't do this to me!
+Dialogue: 0,0:46:50.93,0:46:52.50,英文,,0000,0000,0000,,{\blur3}- Ready.- Give me.
+Dialogue: 0,0:46:54.00,0:46:55.66,英文,,0000,0000,0000,,{\blur3}Careful.
+Dialogue: 0,0:46:55.67,0:46:56.53,英文,,0000,0000,0000,,{\blur3}You street punks!
+Dialogue: 0,0:46:56.53,0:46:58.60,英文,,0000,0000,0000,,{\blur3}I'm gonna make you pay for this.
+Dialogue: 0,0:47:22.63,0:47:23.69,英文,,0000,0000,0000,,{\blur3}Nice work.
+Dialogue: 0,0:47:25.06,0:47:26.53,英文,,0000,0000,0000,,{\blur3}Compliments to your crew.
+Dialogue: 0,0:47:27.77,0:47:29.53,英文,,0000,0000,0000,,{\blur3}Thank you, sir.
+Dialogue: 0,0:47:32.87,0:47:34.37,英文,,0000,0000,0000,,{\blur3}I'll pass it on.
+Dialogue: 0,0:47:34.37,0:47:36.84,英文,,0000,0000,0000,,{\blur3}Hey, man, where's my cut?
+Dialogue: 0,0:47:36.84,0:47:38.01,英文,,0000,0000,0000,,{\blur3}Hey, when you gonna tell your hard body
+Dialogue: 0,0:47:38.01,0:47:39.34,英文,,0000,0000,0000,,{\blur3}you jack cyborgs, huh?
+Dialogue: 0,0:47:39.34,0:47:40.74,英文,,0000,0000,0000,,{\blur3}I'm not.
+Dialogue: 0,0:47:40.74,0:47:42.08,英文,,0000,0000,0000,,{\blur3}And neither are you.
+Dialogue: 0,0:47:42.08,0:47:44.52,英文,,0000,0000,0000,,{\blur3}You afraid she's gonna cut you loose?
+Dialogue: 0,0:47:52.66,0:47:55.16,英文,,0000,0000,0000,,{\blur3}Get the Grindcutters over to Chiren right away.
+Dialogue: 0,0:47:55.16,0:47:56.63,英文,,0000,0000,0000,,{\blur3}Use the service gate.
+Dialogue: 0,0:47:57.76,0:47:58.76,英文,,0000,0000,0000,,{\blur3}Go.
+Dialogue: 0,0:48:13.21,0:48:15.11,英文,,0000,0000,0000,,{\blur3}Vector, you prick.
+Dialogue: 0,0:48:15.11,0:48:16.58,英文,,0000,0000,0000,,{\blur3}I should've known.
+Dialogue: 0,0:48:16.58,0:48:18.65,英文,,0000,0000,0000,,{\blur3}What you should've known,my friend...
+Dialogue: 0,0:48:19.62,0:48:21.25,英文,,0000,0000,0000,,{\blur3}is that no one...
+Dialogue: 0,0:48:23.12,0:48:25.22,英文,,0000,0000,0000,,{\blur3}is greater than the game.
+Dialogue: 0,0:48:46.01,0:48:48.01,英文,,0000,0000,0000,,{\blur3}What's outside the city?
+Dialogue: 0,0:48:48.01,0:48:49.14,英文,,0000,0000,0000,,{\blur3}Not much.
+Dialogue: 0,0:48:49.15,0:48:50.71,英文,,0000,0000,0000,,{\blur3}The war wiped out all utilities
+Dialogue: 0,0:48:50.71,0:48:52.18,英文,,0000,0000,0000,,{\blur3}and most everything else.
+Dialogue: 0,0:48:55.82,0:49:00.29,英文,,0000,0000,0000,,{\blur3}All we know is the sky cities fell all in one night...
+Dialogue: 0,0:49:00.29,0:49:02.46,英文,,0000,0000,0000,,{\blur3}when the enemy launched the last attack
+Dialogue: 0,0:49:02.46,0:49:03.90,英文,,0000,0000,0000,,{\blur3}with every ship they had.
+Dialogue: 0,0:49:04.93,0:49:06.40,英文,,0000,0000,0000,,{\blur3}Who was the enemy?
+Dialogue: 0,0:49:07.06,0:49:08.93,英文,,0000,0000,0000,,{\blur3}The URM.
+Dialogue: 0,0:49:08.93,0:49:12.77,英文,,0000,0000,0000,,{\blur3}United Republics of Mars.The U-R-M.
+Dialogue: 0,0:49:13.47,0:49:14.34,英文,,0000,0000,0000,,{\blur3}URM.
+Dialogue: 0,0:49:14.34,0:49:16.94,英文,,0000,0000,0000,,{\blur3}On that last night of the war...
+Dialogue: 0,0:49:16.94,0:49:19.61,英文,,0000,0000,0000,,{\blur3}the earth shook and the sky burned.
+Dialogue: 0,0:49:19.61,0:49:22.78,英文,,0000,0000,0000,,{\blur3}But in the morning,Zalem still stood.
+Dialogue: 0,0:49:23.31,0:49:24.75,英文,,0000,0000,0000,,{\blur3}It's just up ahead.
+Dialogue: 0,0:49:32.59,0:49:35.32,英文,,0000,0000,0000,,{\blur3}This ship is from the battle of Zalem.
+Dialogue: 0,0:49:35.33,0:49:36.49,英文,,0000,0000,0000,,{\blur3}I figured that maybe seeing stuff
+Dialogue: 0,0:49:36.49,0:49:38.30,英文,,0000,0000,0000,,{\blur3}from the war would help trigger your...
+Dialogue: 0,0:49:46.64,0:49:48.14,英文,,0000,0000,0000,,{\blur3}Salvagers have jacked some stuff
+Dialogue: 0,0:49:48.14,0:49:49.51,英文,,0000,0000,0000,,{\blur3}over the years for metal...
+Dialogue: 0,0:49:50.14,0:49:51.44,英文,,0000,0000,0000,,{\blur3}but it's all URM technology,
+Dialogue: 0,0:49:51.44,0:49:52.74,英文,,0000,0000,0000,,{\blur3}so it's mostly been left alone.
+Dialogue: 0,0:49:52.74,0:49:55.18,英文,,0000,0000,0000,,{\blur3}- This is an URM ship?- Uh-huh.
+Dialogue: 0,0:49:55.18,0:49:56.48,英文,,0000,0000,0000,,{\blur3}You know, it's pretty hard to sell this stuff
+Dialogue: 0,0:49:56.48,0:49:58.45,英文,,0000,0000,0000,,{\blur3}since no one knows what it is...
+Dialogue: 0,0:49:58.45,0:49:59.55,英文,,0000,0000,0000,,{\blur3}Shh!
+Dialogue: 0,0:50:08.06,0:50:09.66,英文,,0000,0000,0000,,{\blur3}We have to goto the command deck.
+Dialogue: 0,0:50:11.80,0:50:13.26,英文,,0000,0000,0000,,{\blur3}It's forward.
+Dialogue: 0,0:50:14.03,0:50:15.66,英文,,0000,0000,0000,,{\blur3}How does she know that?
+Dialogue: 0,0:50:15.67,0:50:18.54,英文,,0000,0000,0000,,{\blur3}Hey, we can't get there.It's underwater.
+Dialogue: 0,0:50:51.43,0:50:53.74,英文,,0000,0000,0000,,{\blur3}How long do you think she can hold her breath?
+Dialogue: 0,0:50:54.77,0:50:56.04,英文,,0000,0000,0000,,{\blur3}I don't know.
+Dialogue: 0,0:52:42.15,0:52:43.81,英文,,0000,0000,0000,,{\blur3}Oh, this can't be good.
+Dialogue: 0,0:53:08.74,0:53:09.74,英文,,0000,0000,0000,,{\blur3}Forget it.
+Dialogue: 0,0:53:10.47,0:53:11.78,英文,,0000,0000,0000,,{\blur3}I won't do it.
+Dialogue: 0,0:53:12.17,0:53:13.18,英文,,0000,0000,0000,,{\blur3}But...
+Dialogue: 0,0:53:13.98,0:53:16.34,英文,,0000,0000,0000,,{\blur3}But you have to.
+Dialogue: 0,0:53:16.35,0:53:17.81,英文,,0000,0000,0000,,{\blur3}This would help us fight Grewishka
+Dialogue: 0,0:53:17.81,0:53:19.95,英文,,0000,0000,0000,,{\blur3}and anyone else he sends after us.
+Dialogue: 0,0:53:21.92,0:53:22.92,英文,,0000,0000,0000,,{\blur3}This body...
+Dialogue: 0,0:53:23.99,0:53:26.55,英文,,0000,0000,0000,,{\blur3}it has the power I need.
+Dialogue: 0,0:53:26.56,0:53:29.66,英文,,0000,0000,0000,,{\blur3}I feel a connection to it I can't explain.
+Dialogue: 0,0:53:29.66,0:53:31.49,英文,,0000,0000,0000,,{\blur3}This could be who I am.
+Dialogue: 0,0:53:31.49,0:53:33.93,英文,,0000,0000,0000,,{\blur3}You've been given a chance to start over,
+Dialogue: 0,0:53:33.93,0:53:35.06,英文,,0000,0000,0000,,{\blur3}with a clean slate.
+Dialogue: 0,0:53:35.06,0:53:36.40,英文,,0000,0000,0000,,{\blur3}How many of us get that?
+Dialogue: 0,0:53:36.40,0:53:38.80,英文,,0000,0000,0000,,{\blur3}Why did an enemy war ship...
+Dialogue: 0,0:53:40.40,0:53:41.94,英文,,0000,0000,0000,,{\blur3}respond to me?
+Dialogue: 0,0:53:42.57,0:53:44.01,英文,,0000,0000,0000,,{\blur3}Because I knew that ship.
+Dialogue: 0,0:53:44.88,0:53:47.08,英文,,0000,0000,0000,,{\blur3}I've been on others like it,haven't I?
+Dialogue: 0,0:53:48.48,0:53:49.98,英文,,0000,0000,0000,,{\blur3}Haven't I?
+Dialogue: 0,0:53:49.98,0:53:53.15,英文,,0000,0000,0000,,{\blur3}Ouf, whatever you were,it's not who you are now.
+Dialogue: 0,0:53:53.15,0:53:54.65,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,0:53:56.72,0:53:58.72,英文,,0000,0000,0000,,{\blur3}I'm a warrior, aren't I?
+Dialogue: 0,0:54:00.16,0:54:01.66,英文,,0000,0000,0000,,{\blur3}And you know.
+Dialogue: 0,0:54:02.19,0:54:04.09,英文,,0000,0000,0000,,{\blur3}You've always known.
+Dialogue: 0,0:54:09.60,0:54:11.07,英文,,0000,0000,0000,,{\blur3}This is called a Berserker.
+Dialogue: 0,0:54:13.10,0:54:17.04,英文,,0000,0000,0000,,{\blur3}It's a humanoid weapon-system created by the URM Technology.
+Dialogue: 0,0:54:18.01,0:54:19.11,英文,,0000,0000,0000,,{\blur3}Your core
+Dialogue: 0,0:54:19.11,0:54:21.85,英文,,0000,0000,0000,,{\blur3}was designed to interface with this type of body.
+Dialogue: 0,0:54:22.98,0:54:26.08,英文,,0000,0000,0000,,{\blur3}Your identity code activated it.
+Dialogue: 0,0:54:26.08,0:54:28.69,英文,,0000,0000,0000,,{\blur3}The instinctive fighting technique you use...
+Dialogue: 0,0:54:30.12,0:54:35.32,英文,,0000,0000,0000,,{\blur3}is Panzer Kunst,a lost combat art for machine bodies.
+Dialogue: 0,0:54:35.33,0:54:37.86,英文,,0000,0000,0000,,{\blur3}It was used by the Berserkers.
+Dialogue: 0,0:54:37.86,0:54:41.86,英文,,0000,0000,0000,,{\blur3}This is why you're drawn to conflict without hesitation.
+Dialogue: 0,0:54:41.86,0:54:43.77,英文,,0000,0000,0000,,{\blur3}It's part of your training.
+Dialogue: 0,0:54:43.77,0:54:46.97,英文,,0000,0000,0000,,{\blur3}You are not justa warrior, Alita.
+Dialogue: 0,0:54:48.77,0:54:50.80,英文,,0000,0000,0000,,{\blur3}You're an URM Berserker,
+Dialogue: 0,0:54:50.81,0:54:54.78,英文,,0000,0000,0000,,{\blur3}the most advanced cyborg weapon ever created.
+Dialogue: 0,0:54:55.44,0:54:56.88,英文,,0000,0000,0000,,{\blur3}And that is exactly why
+Dialogue: 0,0:54:56.88,0:55:00.08,英文,,0000,0000,0000,,{\blur3}I will never unite you with this body.
+Dialogue: 0,0:55:04.19,0:55:05.56,英文,,0000,0000,0000,,{\blur3}That's fine.
+Dialogue: 0,0:55:07.22,0:55:08.56,英文,,0000,0000,0000,,{\blur3}Fine.
+Dialogue: 0,0:55:36.65,0:55:38.72,英文,,0000,0000,0000,,{\blur3}State your business.
+Dialogue: 0,0:55:38.72,0:55:41.19,英文,,0000,0000,0000,,{\blur3}I'm here to register as a Hunter-Warrior.
+Dialogue: 0,0:55:47.90,0:55:49.60,英文,,0000,0000,0000,,{\blur3}How'd it go?
+Dialogue: 0,0:55:54.37,0:55:56.20,英文,,0000,0000,0000,,{\blur3}You're a Hunter-Warrior,all right.
+Dialogue: 0,0:55:56.21,0:55:57.64,英文,,0000,0000,0000,,{\blur3}Doc's gonna be pissed.
+Dialogue: 0,0:55:57.64,0:55:59.31,英文,,0000,0000,0000,,{\blur3}Whose rules do I live by?
+Dialogue: 0,0:56:07.42,0:56:09.15,英文,,0000,0000,0000,,{\blur3}Whoa, whoa, whoa.Are you sure about this?
+Dialogue: 0,0:56:09.15,0:56:10.85,英文,,0000,0000,0000,,{\blur3}This place is just for bounty hunters, nobody else...
+Dialogue: 0,0:56:10.85,0:56:12.49,英文,,0000,0000,0000,,{\blur3}What do you think this is?
+Dialogue: 0,0:56:12.49,0:56:15.26,英文,,0000,0000,0000,,{\blur3}Besides, Ido says I'm drawn to conflict.
+Dialogue: 0,0:56:17.59,0:56:20.30,英文,,0000,0000,0000,,{\blur3}Oh. I remember you.
+Dialogue: 0,0:56:20.30,0:56:22.63,英文,,0000,0000,0000,,{\blur3}How's it going, little guy?
+Dialogue: 0,0:56:22.63,0:56:24.67,英文,,0000,0000,0000,,{\blur3}Good?
+Dialogue: 0,0:56:26.30,0:56:27.30,英文,,0000,0000,0000,,{\blur3}Just watch my back.
+Dialogue: 0,0:56:29.31,0:56:30.31,英文,,0000,0000,0000,,{\blur3}Oh, boy.
+Dialogue: 0,0:56:47.66,0:56:50.06,英文,,0000,0000,0000,,{\blur3}Hey, Zapan!Not the furniture.
+Dialogue: 0,0:57:00.04,0:57:02.04,英文,,0000,0000,0000,,{\blur3}What brings you in here, sweets?
+Dialogue: 0,0:57:03.07,0:57:05.07,英文,,0000,0000,0000,,{\blur3}Come to see the Hunters up close?
+Dialogue: 0,0:57:05.08,0:57:06.34,英文,,0000,0000,0000,,{\blur3}Not exactly.
+Dialogue: 0,0:57:14.45,0:57:16.39,英文,,0000,0000,0000,,{\blur3}Cup cake here is a bounty hunter.
+Dialogue: 0,0:57:17.12,0:57:18.82,英文,,0000,0000,0000,,{\blur3}What?
+Dialogue: 0,0:57:19.46,0:57:21.15,英文,,0000,0000,0000,,{\blur3}So, you went down,
+Dialogue: 0,0:57:21.16,0:57:23.66,英文,,0000,0000,0000,,{\blur3}you filled out your application forms...
+Dialogue: 0,0:57:23.66,0:57:25.13,英文,,0000,0000,0000,,{\blur3}you got your ID badge...
+Dialogue: 0,0:57:25.13,0:57:27.40,英文,,0000,0000,0000,,{\blur3}and now you're just like us, yeah?
+Dialogue: 0,0:57:28.80,0:57:29.86,英文,,0000,0000,0000,,{\blur3}Let me introduce you
+Dialogue: 0,0:57:29.87,0:57:31.37,英文,,0000,0000,0000,,{\blur3}to some of your professional colleagues.
+Dialogue: 0,0:57:33.07,0:57:36.34,英文,,0000,0000,0000,,{\blur3}This is Master Clive Lee of the White Hot Palm.
+Dialogue: 0,0:57:36.34,0:57:38.78,英文,,0000,0000,0000,,{\blur3}He has over 200 confirmed kills.
+Dialogue: 0,0:57:39.61,0:57:41.44,英文,,0000,0000,0000,,{\blur3}207.
+Dialogue: 0,0:57:41.44,0:57:43.14,英文,,0000,0000,0000,,{\blur3}Well, and this is Screwhead,
+Dialogue: 0,0:57:43.15,0:57:45.98,英文,,0000,0000,0000,,{\blur3}one of our most lethal bounty hunters.
+Dialogue: 0,0:57:47.35,0:57:49.52,英文,,0000,0000,0000,,{\blur3}And then, there's McTeague...
+Dialogue: 0,0:57:49.52,0:57:52.55,英文,,0000,0000,0000,,{\blur3}the Dogmaster,with his Hellhounds.
+Dialogue: 0,0:57:54.02,0:57:55.56,英文,,0000,0000,0000,,{\blur3}His biggest problem is having enough left to identify after,
+Dialogue: 0,0:57:55.56,0:57:58.33,英文,,0000,0000,0000,,{\blur3}so he can collect the bounty.
+Dialogue: 0,0:58:01.93,0:58:03.80,英文,,0000,0000,0000,,{\blur3}And then, there's me.
+Dialogue: 0,0:58:04.50,0:58:06.30,英文,,0000,0000,0000,,{\blur3}Zapan.
+Dialogue: 0,0:58:06.30,0:58:09.37,英文,,0000,0000,0000,,{\blur3}Keeper of the legendary Damascus Blade.
+Dialogue: 0,0:58:11.11,0:58:16.24,英文,,0000,0000,0000,,{\blur3}Honed to a monomolecular edge.It slices armor like butter.
+Dialogue: 0,0:58:16.25,0:58:19.65,英文,,0000,0000,0000,,{\blur3}Forged before The Fall by the lost arts of URM metallurgy.
+Dialogue: 0,0:58:19.65,0:58:21.82,英文,,0000,0000,0000,,{\blur3}And who did you kill to acquire it?
+Dialogue: 0,0:58:26.19,0:58:30.19,英文,,0000,0000,0000,,{\blur3}A Hunter-Warrior is a solitary predator.
+Dialogue: 0,0:58:31.23,0:58:34.30,英文,,0000,0000,0000,,{\blur3}You'll be competing against us for the kill.
+Dialogue: 0,0:58:34.30,0:58:36.27,英文,,0000,0000,0000,,{\blur3}You can see what you're up against.
+Dialogue: 0,0:58:40.77,0:58:42.01,英文,,0000,0000,0000,,{\blur3}Thanks.
+Dialogue: 0,0:58:44.94,0:58:47.74,英文,,0000,0000,0000,,{\blur3}I came to ask for your help...
+Dialogue: 0,0:58:47.74,0:58:51.65,英文,,0000,0000,0000,,{\blur3}against our common enemy,Grewishka.
+Dialogue: 0,0:58:51.65,0:58:53.68,英文,,0000,0000,0000,,{\blur3}He's being protected by the system,
+Dialogue: 0,0:58:53.68,0:58:56.42,英文,,0000,0000,0000,,{\blur3}and continuesto rampage unchecked.
+Dialogue: 0,0:58:57.19,0:58:59.36,英文,,0000,0000,0000,,{\blur3}And now,he's after Ido and me.
+Dialogue: 0,0:59:00.39,0:59:02.62,英文,,0000,0000,0000,,{\blur3}So I'm calling on you...
+Dialogue: 0,0:59:02.63,0:59:05.06,英文,,0000,0000,0000,,{\blur3}my Hunter-Warrior brothers.
+Dialogue: 0,0:59:05.73,0:59:07.83,英文,,0000,0000,0000,,{\blur3}Let's band together
+Dialogue: 0,0:59:07.83,0:59:10.77,英文,,0000,0000,0000,,{\blur3}and defeat him once and for all.
+Dialogue: 0,0:59:18.74,0:59:20.48,英文,,0000,0000,0000,,{\blur3}Any takers? Hmm?
+Dialogue: 0,0:59:21.71,0:59:23.11,英文,,0000,0000,0000,,{\blur3}No?
+Dialogue: 0,0:59:23.65,0:59:24.98,英文,,0000,0000,0000,,{\blur3}Big surprise.
+Dialogue: 0,0:59:26.38,0:59:29.49,英文,,0000,0000,0000,,{\blur3}You know, normally,I wouldn't take a rookie under my wing...
+Dialogue: 0,0:59:30.29,0:59:32.02,英文,,0000,0000,0000,,{\blur3}share my knowledge.
+Dialogue: 0,0:59:32.02,0:59:34.76,英文,,0000,0000,0000,,{\blur3}I'm willing to make an exception in your case...
+Dialogue: 0,0:59:34.76,0:59:36.52,英文,,0000,0000,0000,,{\blur3}if you'll cut loose Meat-Boy over here
+Dialogue: 0,0:59:36.53,0:59:37.83,英文,,0000,0000,0000,,{\blur3}and let me buy you a drink.
+Dialogue: 0,0:59:37.83,0:59:39.46,英文,,0000,0000,0000,,{\blur3}Hey, watch it.
+Dialogue: 0,0:59:41.20,0:59:44.40,英文,,0000,0000,0000,,{\blur3}And what could I learn from a loud mouth pretty boy...
+Dialogue: 0,0:59:44.40,0:59:46.47,英文,,0000,0000,0000,,{\blur3}who spends all of his money on his face?
+Dialogue: 0,0:59:52.14,0:59:54.84,英文,,0000,0000,0000,,{\blur3}Maybe I'll pully our arms and legs off,
+Dialogue: 0,0:59:54.84,0:59:57.31,英文,,0000,0000,0000,,{\blur3}roll your head around in the street.
+Dialogue: 0,0:59:57.31,0:59:59.55,英文,,0000,0000,0000,,{\blur3}Maybe that'll teach you some manners.
+Dialogue: 0,1:00:00.85,1:00:02.68,英文,,0000,0000,0000,,{\blur3}You might mess up your hair.
+Dialogue: 0,1:00:06.09,1:00:07.36,英文,,0000,0000,0000,,{\blur3}You gonna take that, Zapan?
+Dialogue: 0,1:00:08.52,1:00:10.89,英文,,0000,0000,0000,,{\blur3}He's scared of the pretty girl.
+Dialogue: 0,1:00:11.66,1:00:13.19,英文,,0000,0000,0000,,{\blur3}Aah!
+Dialogue: 0,1:00:35.72,1:00:37.99,英文,,0000,0000,0000,,{\blur3}You do not deserve such a weapon.
+Dialogue: 0,1:00:40.39,1:00:43.36,英文,,0000,0000,0000,,{\blur3}I heard you were the heroes of Iron City.
+Dialogue: 0,1:00:44.90,1:00:46.76,英文,,0000,0000,0000,,{\blur3}I am not impressed.
+Dialogue: 0,1:00:46.76,1:00:48.43,英文,,0000,0000,0000,,{\blur3}What the hell are you doing?
+Dialogue: 0,1:00:48.43,1:00:50.43,英文,,0000,0000,0000,,{\blur3}I'm gonna need you to stand way back.
+Dialogue: 0,1:00:53.40,1:00:56.11,英文,,0000,0000,0000,,{\blur3}I will take on anyone in this room.
+Dialogue: 0,1:00:56.81,1:00:59.07,英文,,0000,0000,0000,,{\blur3}And if I win...
+Dialogue: 0,1:00:59.08,1:01:01.08,英文,,0000,0000,0000,,{\blur3}you fight alongside me.
+Dialogue: 0,1:01:03.71,1:01:05.25,英文,,0000,0000,0000,,{\blur3}This bitch broke my nose.
+Dialogue: 0,1:01:05.65,1:01:07.12,英文,,0000,0000,0000,,{\blur3}Yes, I did.
+Dialogue: 0,1:01:09.25,1:01:10.42,英文,,0000,0000,0000,,{\blur3}Heroes?
+Dialogue: 0,1:01:10.42,1:01:13.02,英文,,0000,0000,0000,,{\blur3}All I see are junkyard punks,assorted cyber-trash...
+Dialogue: 0,1:01:13.02,1:01:15.59,英文,,0000,0000,0000,,{\blur3}and a bunch of drunken Motorball burnouts
+Dialogue: 0,1:01:15.59,1:01:17.36,英文,,0000,0000,0000,,{\blur3}too slow to play the game.
+Dialogue: 0,1:01:59.30,1:02:00.44,英文,,0000,0000,0000,,{\blur3}Thanks, Hugo.
+Dialogue: 0,1:02:11.95,1:02:13.15,英文,,0000,0000,0000,,{\blur3}Oh, no.
+Dialogue: 0,1:02:26.76,1:02:27.96,英文,,0000,0000,0000,,{\blur3}Hold it!
+Dialogue: 0,1:02:29.70,1:02:31.83,英文,,0000,0000,0000,,{\blur3}Knock it off!
+Dialogue: 0,1:02:31.83,1:02:33.70,英文,,0000,0000,0000,,{\blur3}Or no more free repairs!
+Dialogue: 0,1:02:45.02,1:02:46.71,英文,,0000,0000,0000,,{\blur3}I'm with her.
+Dialogue: 0,1:02:46.72,1:02:48.48,英文,,0000,0000,0000,,{\blur3}Sorry about this.
+Dialogue: 0,1:02:51.09,1:02:53.15,英文,,0000,0000,0000,,{\blur3}You and I are going to have a little talk.
+Dialogue: 0,1:02:53.16,1:02:54.86,英文,,0000,0000,0000,,{\blur3}No, we had our talk.
+Dialogue: 0,1:02:54.86,1:02:56.92,英文,,0000,0000,0000,,{\blur3}You didn't leave me another choice.
+Dialogue: 0,1:03:15.85,1:03:17.05,英文,,0000,0000,0000,,{\blur3}Don't move.
+Dialogue: 0,1:03:28.83,1:03:30.22,英文,,0000,0000,0000,,{\blur3}It's Grewishka.
+Dialogue: 0,1:03:30.23,1:03:31.43,英文,,0000,0000,0000,,{\blur3}What's happened to him?
+Dialogue: 0,1:03:33.33,1:03:35.23,英文,,0000,0000,0000,,{\blur3}Well, to answer your question...
+Dialogue: 0,1:03:40.87,1:03:43.14,英文,,0000,0000,0000,,{\blur3}I've had a little upgrade.
+Dialogue: 0,1:03:52.68,1:03:54.35,英文,,0000,0000,0000,,{\blur3}I'm only here for the girl.
+Dialogue: 0,1:03:56.59,1:03:58.12,英文,,0000,0000,0000,,{\blur3}Ah, she's all yours.
+Dialogue: 0,1:04:02.73,1:04:04.19,英文,,0000,0000,0000,,{\blur3}What about the rest of you?
+Dialogue: 0,1:04:04.19,1:04:05.93,英文,,0000,0000,0000,,{\blur3}There ain't no bounty on this guy, Doc.
+Dialogue: 0,1:04:07.66,1:04:08.80,英文,,0000,0000,0000,,{\blur3}Not our problem.
+Dialogue: 0,1:04:15.21,1:04:17.07,英文,,0000,0000,0000,,{\blur3}It's all right, Ido.
+Dialogue: 0,1:04:22.58,1:04:23.85,英文,,0000,0000,0000,,{\blur3}Aw.
+Dialogue: 0,1:04:24.68,1:04:26.62,英文,,0000,0000,0000,,{\blur3}The only one with courage.
+Dialogue: 0,1:04:29.19,1:04:30.98,英文,,0000,0000,0000,,{\blur3}So innocent.
+Dialogue: 0,1:04:37.63,1:04:42.43,英文,,0000,0000,0000,,{\blur3}Iron City is no place for innocents, little flea.
+Dialogue: 0,1:04:52.27,1:04:56.18,英文,,0000,0000,0000,,{\blur3}{\i1}I do not stand by in the presence of evil.{\i}
+Dialogue: 0,1:04:59.61,1:05:03.55,英文,,0000,0000,0000,,{\blur3}I do not stand by in the presence of evil.
+Dialogue: 0,1:05:20.94,1:05:22.87,英文,,0000,0000,0000,,{\blur3}Come to my world.
+Dialogue: 0,1:05:26.98,1:05:28.21,英文,,0000,0000,0000,,{\blur3}Come, little flea.
+Dialogue: 0,1:05:29.01,1:05:30.91,英文,,0000,0000,0000,,{\blur3}Alita! No!
+Dialogue: 0,1:05:39.36,1:05:42.72,英文,,0000,0000,0000,,{\blur3}Welcome to the under world. My world.
+Dialogue: 0,1:05:42.73,1:05:47.06,英文,,0000,0000,0000,,{\blur3}From here, there are worlds above worlds above worlds...
+Dialogue: 0,1:05:47.06,1:05:49.83,英文,,0000,0000,0000,,{\blur3}going farther up than you can imagine.
+Dialogue: 0,1:05:49.83,1:05:53.23,英文,,0000,0000,0000,,{\blur3}And the trash of each one flows down to the one below...
+Dialogue: 0,1:05:53.23,1:05:55.87,英文,,0000,0000,0000,,{\blur3}'til it all ends up here.
+Dialogue: 0,1:05:57.01,1:05:59.24,英文,,0000,0000,0000,,{\blur3}It's where I used to live.
+Dialogue: 0,1:05:59.24,1:06:01.54,英文,,0000,0000,0000,,{\blur3}And it's where you're going to die.
+Dialogue: 0,1:06:31.91,1:06:33.58,英文,,0000,0000,0000,,{\blur3}Dance, little flea.
+Dialogue: 0,1:07:16.25,1:07:18.52,英文,,0000,0000,0000,,{\blur3}I was forgotten here to rot.
+Dialogue: 0,1:07:19.09,1:07:20.49,英文,,0000,0000,0000,,{\blur3}But I was saved...
+Dialogue: 0,1:07:20.89,1:07:22.02,英文,,0000,0000,0000,,{\blur3}remade...
+Dialogue: 0,1:07:22.02,1:07:25.46,英文,,0000,0000,0000,,{\blur3}by the same hand that shapes your destiny even now.
+Dialogue: 0,1:07:27.13,1:07:28.26,英文,,0000,0000,0000,,{\blur3}Whose hand?
+Dialogue: 0,1:07:28.26,1:07:31.33,英文,,0000,0000,0000,,{\blur3}My master, Nova.
+Dialogue: 0,1:07:31.33,1:07:32.97,英文,,0000,0000,0000,,{\blur3}What do you know about me?
+Dialogue: 0,1:08:03.37,1:08:06.27,英文,,0000,0000,0000,,{\blur3}{\i1}You have the soul of a survivor.{\i}
+Dialogue: 0,1:08:08.57,1:08:10.67,英文,,0000,0000,0000,,{\blur3}{\i1}You'll never give up.{\i}
+Dialogue: 0,1:08:14.11,1:08:15.17,英文,,0000,0000,0000,,{\blur3}Aah.
+Dialogue: 0,1:08:15.18,1:08:16.68,英文,,0000,0000,0000,,{\blur3}Know what is hidden.
+Dialogue: 0,1:08:17.71,1:08:19.35,英文,,0000,0000,0000,,{\blur3}Always ask...
+Dialogue: 0,1:08:19.35,1:08:22.42,英文,,0000,0000,0000,,{\blur3}what is it that you are not seeing?
+Dialogue: 0,1:08:23.35,1:08:25.32,英文,,0000,0000,0000,,{\blur3}Nova?
+Dialogue: 0,1:08:25.32,1:08:28.49,英文,,0000,0000,0000,,{\blur3}He is the dragon that must be slain.
+Dialogue: 0,1:08:30.26,1:08:31.46,英文,,0000,0000,0000,,{\blur3}Again.
+Dialogue: 0,1:08:32.33,1:08:34.83,英文,,0000,0000,0000,,{\blur3}Look at you.
+Dialogue: 0,1:08:34.83,1:08:36.70,英文,,0000,0000,0000,,{\blur3}Where are you going?
+Dialogue: 0,1:08:45.51,1:08:47.38,英文,,0000,0000,0000,,{\blur3}What's the matter?
+Dialogue: 0,1:08:47.38,1:08:49.31,英文,,0000,0000,0000,,{\blur3}My little toy doesn't want to play anymore?
+Dialogue: 0,1:08:50.68,1:08:52.98,英文,,0000,0000,0000,,{\blur3}I'll turn you into a living pendant
+Dialogue: 0,1:08:52.98,1:08:55.01,英文,,0000,0000,0000,,{\blur3}to adorn my chest.
+Dialogue: 0,1:08:55.02,1:08:58.42,英文,,0000,0000,0000,,{\blur3}Then I can hear your voice every moment of the day...
+Dialogue: 0,1:08:58.42,1:09:00.69,英文,,0000,0000,0000,,{\blur3}pleading for mercy!
+Dialogue: 0,1:09:14.04,1:09:15.64,英文,,0000,0000,0000,,{\blur3}Hi-yah!
+Dialogue: 0,1:09:20.88,1:09:22.41,英文,,0000,0000,0000,,{\blur3}Fuck your mercy.
+Dialogue: 0,1:09:31.09,1:09:32.62,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:09:57.75,1:09:59.45,英文,,0000,0000,0000,,{\blur3}Break off!
+Dialogue: 0,1:10:03.35,1:10:06.99,英文,,0000,0000,0000,,{\blur3}He wasn't a dog lover.I hate that.
+Dialogue: 0,1:10:09.46,1:10:11.16,英文,,0000,0000,0000,,{\blur3}Oh, come on.
+Dialogue: 0,1:10:16.10,1:10:17.90,英文,,0000,0000,0000,,{\blur3}I'm sorry.
+Dialogue: 0,1:10:19.03,1:10:20.60,英文,,0000,0000,0000,,{\blur3}I'm so sorry.
+Dialogue: 0,1:10:29.81,1:10:33.05,英文,,0000,0000,0000,,{\blur3}You think you can replace us that easily?
+Dialogue: 0,1:10:33.05,1:10:35.85,英文,,0000,0000,0000,,{\blur3}Bring her back as many times as you like.
+Dialogue: 0,1:11:11.69,1:11:14.02,英文,,0000,0000,0000,,{\blur3}No one will dare harm you again.
+Dialogue: 0,1:11:29.47,1:11:32.78,英文,,0000,0000,0000,,{\blur3}It's the adaptive technology of the Berserker body.
+Dialogue: 0,1:11:35.14,1:11:36.74,英文,,0000,0000,0000,,{\blur3}The shell is reconfiguring
+Dialogue: 0,1:11:36.75,1:11:39.15,英文,,0000,0000,0000,,{\blur3}to her subconscious imageof herself.
+Dialogue: 0,1:11:41.58,1:11:44.18,英文,,0000,0000,0000,,{\blur3}I've never seen anything like it.
+Dialogue: 0,1:11:44.19,1:11:48.12,英文,,0000,0000,0000,,{\blur3}It's making micro-adjustments throughout every system.
+Dialogue: 0,1:11:52.86,1:11:55.16,英文,,0000,0000,0000,,{\blur3}Looks like she's a little older than you thought.
+Dialogue: 0,1:12:16.15,1:12:18.12,英文,,0000,0000,0000,,{\blur3}Well, look at you.
+Dialogue: 0,1:12:40.21,1:12:42.48,英文,,0000,0000,0000,,{\blur3}Well, you were right.
+Dialogue: 0,1:12:42.48,1:12:44.98,英文,,0000,0000,0000,,{\blur3}A warrior's spirit needs a warrior's body.
+Dialogue: 0,1:12:55.76,1:12:59.09,英文,,0000,0000,0000,,{\blur3}It draws in air,generating an arc plasma...
+Dialogue: 0,1:12:59.10,1:13:01.53,英文,,0000,0000,0000,,{\blur3}but how you control it,I don't know.
+Dialogue: 0,1:13:01.53,1:13:04.43,英文,,0000,0000,0000,,{\blur3}Didn't exactly come with a manual, did you?
+Dialogue: 0,1:13:04.43,1:13:06.07,英文,,0000,0000,0000,,{\blur3}It's some kind of weapon.
+Dialogue: 0,1:13:14.28,1:13:16.04,英文,,0000,0000,0000,,{\blur3}Now you know who you are.
+Dialogue: 0,1:13:25.42,1:13:27.32,英文,,0000,0000,0000,,{\blur3}But that's just a shell.
+Dialogue: 0,1:13:28.62,1:13:30.96,英文,,0000,0000,0000,,{\blur3}It's not bad or good.
+Dialogue: 0,1:13:32.19,1:13:33.80,英文,,0000,0000,0000,,{\blur3}That part's up to you.
+Dialogue: 0,1:13:45.61,1:13:46.81,英文,,0000,0000,0000,,{\blur3}Check these out.
+Dialogue: 0,1:13:48.14,1:13:49.15,英文,,0000,0000,0000,,{\blur3}Pretty fresh, right?
+Dialogue: 0,1:13:55.35,1:13:56.35,英文,,0000,0000,0000,,{\blur3}Alita!
+Dialogue: 0,1:14:00.09,1:14:01.09,英文,,0000,0000,0000,,{\blur3}Wow.
+Dialogue: 0,1:14:02.26,1:14:03.96,英文,,0000,0000,0000,,{\blur3}You're...
+Dialogue: 0,1:14:03.96,1:14:06.36,英文,,0000,0000,0000,,{\blur3}- Back together?- Very back together.
+Dialogue: 0,1:14:09.43,1:14:10.90,英文,,0000,0000,0000,,{\blur3}You look...
+Dialogue: 0,1:14:11.47,1:14:12.60,英文,,0000,0000,0000,,{\blur3}different.
+Dialogue: 0,1:14:12.60,1:14:14.00,英文,,0000,0000,0000,,{\blur3}It's all Nano-tech.
+Dialogue: 0,1:14:14.00,1:14:16.10,英文,,0000,0000,0000,,{\blur3}It's a bunch of stuff even Ido hasn't figured out yet.
+Dialogue: 0,1:14:16.11,1:14:18.31,英文,,0000,0000,0000,,{\blur3}So are you stronger than you were?
+Dialogue: 0,1:14:18.31,1:14:20.04,英文,,0000,0000,0000,,{\blur3}Yeah. And faster, too.
+Dialogue: 0,1:14:21.11,1:14:22.31,英文,,0000,0000,0000,,{\blur3}It feels...
+Dialogue: 0,1:14:23.31,1:14:24.68,英文,,0000,0000,0000,,{\blur3}more me.
+Dialogue: 0,1:14:28.68,1:14:29.85,英文,,0000,0000,0000,,{\blur3}You know,some guys might be
+Dialogue: 0,1:14:29.85,1:14:31.29,英文,,0000,0000,0000,,{\blur3}intimidated by a girl like you.
+Dialogue: 0,1:14:31.29,1:14:32.45,英文,,0000,0000,0000,,{\blur3}Really? Why is that?
+Dialogue: 0,1:14:32.45,1:14:33.95,英文,,0000,0000,0000,,{\blur3}'Cause you could rip my arm off
+Dialogue: 0,1:14:33.96,1:14:35.29,英文,,0000,0000,0000,,{\blur3}and beat me with the wet end.
+Dialogue: 0,1:14:36.89,1:14:39.76,英文,,0000,0000,0000,,{\blur3}Well, then,don't piss me off.
+Dialogue: 0,1:14:40.80,1:14:43.26,英文,,0000,0000,0000,,{\blur3}Why don't you like her?
+Dialogue: 0,1:14:43.27,1:14:46.37,英文,,0000,0000,0000,,{\blur3}I just never got the whole hardbody thing.
+Dialogue: 0,1:14:46.37,1:14:47.93,英文,,0000,0000,0000,,{\blur3}And besides, she's URM.
+Dialogue: 0,1:14:47.94,1:14:50.50,英文,,0000,0000,0000,,{\blur3}It means she was probably the enemy at one point.
+Dialogue: 0,1:14:50.51,1:14:54.21,英文,,0000,0000,0000,,{\blur3}Yeah, 300 years ago.
+Dialogue: 0,1:14:54.21,1:14:55.38,英文,,0000,0000,0000,,{\blur3}Get over it.
+Dialogue: 0,1:14:58.25,1:15:01.01,英文,,0000,0000,0000,,{\blur3}I'm a lot more touch sensitive, too.
+Dialogue: 0,1:15:01.02,1:15:03.49,英文,,0000,0000,0000,,{\blur3}A lot higher density of force feedback and...
+Dialogue: 0,1:15:04.69,1:15:06.32,英文,,0000,0000,0000,,{\blur3}texture sensors.
+Dialogue: 0,1:15:08.32,1:15:10.09,英文,,0000,0000,0000,,{\blur3}You wanna try it?
+Dialogue: 0,1:15:18.20,1:15:19.20,英文,,0000,0000,0000,,{\blur3}You can feel this?
+Dialogue: 0,1:15:19.90,1:15:20.90,英文,,0000,0000,0000,,{\blur3}Yes.
+Dialogue: 0,1:15:25.87,1:15:27.18,英文,,0000,0000,0000,,{\blur3}Close your eyes.
+Dialogue: 0,1:15:27.91,1:15:29.81,英文,,0000,0000,0000,,{\blur3}Close your eyes.
+Dialogue: 0,1:15:36.45,1:15:38.12,英文,,0000,0000,0000,,{\blur3}How about this?
+Dialogue: 0,1:15:38.59,1:15:39.89,英文,,0000,0000,0000,,{\blur3}Yes.
+Dialogue: 0,1:15:44.69,1:15:46.13,英文,,0000,0000,0000,,{\blur3}Where am I now?
+Dialogue: 0,1:15:47.66,1:15:49.07,英文,,0000,0000,0000,,{\blur3}You're...
+Dialogue: 0,1:15:51.40,1:15:52.44,英文,,0000,0000,0000,,{\blur3}with me.
+Dialogue: 0,1:16:11.42,1:16:13.42,英文,,0000,0000,0000,,{\blur3}Does it bother you...
+Dialogue: 0,1:16:14.66,1:16:17.52,英文,,0000,0000,0000,,{\blur3}that I'm not completely human?
+Dialogue: 0,1:16:17.53,1:16:21.40,英文,,0000,0000,0000,,{\blur3}You are the most human person I have ever met.
+Dialogue: 0,1:16:37.21,1:16:39.55,英文,,0000,0000,0000,,{\blur3}He won't even let me fix his eye.
+Dialogue: 0,1:16:39.55,1:16:41.02,英文,,0000,0000,0000,,{\blur3}He says he wants the pain.
+Dialogue: 0,1:16:47.39,1:16:48.39,英文,,0000,0000,0000,,{\blur3}Enough.
+Dialogue: 0,1:16:54.40,1:16:55.60,英文,,0000,0000,0000,,{\blur3}Nova.
+Dialogue: 0,1:17:00.94,1:17:02.51,英文,,0000,0000,0000,,{\blur3}You have failed me.
+Dialogue: 0,1:17:05.31,1:17:06.54,英文,,0000,0000,0000,,{\blur3}Stand.
+Dialogue: 0,1:17:10.28,1:17:14.55,英文,,0000,0000,0000,,{\blur3}You will never triumph until you understand what she is.
+Dialogue: 0,1:17:14.55,1:17:16.35,英文,,0000,0000,0000,,{\blur3}She's the last of her kind.
+Dialogue: 0,1:17:16.35,1:17:19.06,英文,,0000,0000,0000,,{\blur3}The finest weapon of the URM Technarchy.
+Dialogue: 0,1:17:20.19,1:17:23.16,英文,,0000,0000,0000,,{\blur3}I need you to destroy this Alita.
+Dialogue: 0,1:17:23.16,1:17:25.23,英文,,0000,0000,0000,,{\blur3}I need you to bring me her heart.
+Dialogue: 0,1:17:27.90,1:17:29.63,英文,,0000,0000,0000,,{\blur3}I live only for her death.
+Dialogue: 0,1:17:38.34,1:17:40.11,英文,,0000,0000,0000,,{\blur3}I hate when he does that.
+Dialogue: 0,1:17:44.11,1:17:46.35,英文,,0000,0000,0000,,{\blur3}This is not a man who tolerates failure.
+Dialogue: 0,1:17:48.02,1:17:51.48,英文,,0000,0000,0000,,{\blur3}I'm not trusting my future to a piece of iron.
+Dialogue: 0,1:17:51.49,1:17:53.39,英文,,0000,0000,0000,,{\blur3}What do you have in mind?
+Dialogue: 0,1:18:02.90,1:18:04.20,英文,,0000,0000,0000,,{\blur3}To dreams.
+Dialogue: 0,1:18:07.74,1:18:09.80,英文,,0000,0000,0000,,{\blur3}I like your drive, Hugo.
+Dialogue: 0,1:18:09.81,1:18:12.21,英文,,0000,0000,0000,,{\blur3}You have a solid future with my team.
+Dialogue: 0,1:18:13.71,1:18:15.51,英文,,0000,0000,0000,,{\blur3}My future's in Zalem.
+Dialogue: 0,1:18:16.28,1:18:18.21,英文,,0000,0000,0000,,{\blur3}I remember your promise every day.
+Dialogue: 0,1:18:19.45,1:18:20.52,英文,,0000,0000,0000,,{\blur3}To send me up.
+Dialogue: 0,1:18:21.38,1:18:23.32,英文,,0000,0000,0000,,{\blur3}When I get you a million credits.
+Dialogue: 0,1:18:23.95,1:18:25.39,英文,,0000,0000,0000,,{\blur3}Personally...
+Dialogue: 0,1:18:26.39,1:18:29.62,英文,,0000,0000,0000,,{\blur3}I'd rather rule in hell than serve in heaven.
+Dialogue: 0,1:18:32.49,1:18:34.80,英文,,0000,0000,0000,,{\blur3}We'd be at the bottom of the food chain up there,
+Dialogue: 0,1:18:34.80,1:18:36.27,英文,,0000,0000,0000,,{\blur3}but down here...
+Dialogue: 0,1:18:37.47,1:18:39.50,英文,,0000,0000,0000,,{\blur3}we can live like kings.
+Dialogue: 0,1:18:42.37,1:18:44.00,英文,,0000,0000,0000,,{\blur3}So...
+Dialogue: 0,1:18:44.00,1:18:46.34,英文,,0000,0000,0000,,{\blur3}Tell me about this friend of yours.
+Dialogue: 0,1:18:47.44,1:18:48.77,英文,,0000,0000,0000,,{\blur3}Alita?
+Dialogue: 0,1:18:48.78,1:18:50.28,英文,,0000,0000,0000,,{\blur3}Is that her name?
+Dialogue: 0,1:18:50.28,1:18:52.25,英文,,0000,0000,0000,,{\blur3}Alita. Hmm.
+Dialogue: 0,1:19:07.63,1:19:08.63,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,1:19:09.80,1:19:11.03,英文,,0000,0000,0000,,{\blur3}Hi.
+Dialogue: 0,1:19:16.14,1:19:18.14,英文,,0000,0000,0000,,{\blur3}What happened to you?
+Dialogue: 0,1:19:18.14,1:19:20.51,英文,,0000,0000,0000,,{\blur3}I wound up hanging out with Vector.
+Dialogue: 0,1:19:21.74,1:19:23.51,英文,,0000,0000,0000,,{\blur3}Some alcohol was involved.
+Dialogue: 0,1:19:24.78,1:19:26.05,英文,,0000,0000,0000,,{\blur3}Apparently.
+Dialogue: 0,1:19:27.02,1:19:28.42,英文,,0000,0000,0000,,{\blur3}So, Vector?
+Dialogue: 0,1:19:28.42,1:19:30.69,英文,,0000,0000,0000,,{\blur3}Is that your connection for getting into Zalem?
+Dialogue: 0,1:19:31.82,1:19:33.02,英文,,0000,0000,0000,,{\blur3}Yeah.
+Dialogue: 0,1:19:33.39,1:19:34.39,英文,,0000,0000,0000,,{\blur3}Oh.
+Dialogue: 0,1:19:35.32,1:19:37.43,英文,,0000,0000,0000,,{\blur3}I was hoping may be you'd wanna stay.
+Dialogue: 0,1:19:38.23,1:19:41.33,英文,,0000,0000,0000,,{\blur3}Hey, it's not right away.
+Dialogue: 0,1:19:42.33,1:19:44.60,英文,,0000,0000,0000,,{\blur3}I still gotta raise the rest of the money first.
+Dialogue: 0,1:19:44.60,1:19:45.67,英文,,0000,0000,0000,,{\blur3}It's okay.
+Dialogue: 0,1:19:47.10,1:19:48.97,英文,,0000,0000,0000,,{\blur3}It's your dream.
+Dialogue: 0,1:19:48.97,1:19:51.54,英文,,0000,0000,0000,,{\blur3}I know it's what you've always wanted.
+Dialogue: 0,1:19:54.71,1:19:55.71,英文,,0000,0000,0000,,{\blur3}You know...
+Dialogue: 0,1:19:57.78,1:19:59.21,英文,,0000,0000,0000,,{\blur3}I was always so sure.
+Dialogue: 0,1:20:02.15,1:20:03.59,英文,,0000,0000,0000,,{\blur3}Now you come along...
+Dialogue: 0,1:20:05.65,1:20:07.29,英文,,0000,0000,0000,,{\blur3}nothing's clear anymore.
+Dialogue: 0,1:20:23.27,1:20:25.47,英文,,0000,0000,0000,,{\blur3}How much more do you need before you can go?
+Dialogue: 0,1:20:27.78,1:20:29.21,英文,,0000,0000,0000,,{\blur3}90k.
+Dialogue: 0,1:20:29.71,1:20:30.75,英文,,0000,0000,0000,,{\blur3}90k?
+Dialogue: 0,1:20:31.81,1:20:33.28,英文,,0000,0000,0000,,{\blur3}I can make that in bounties.
+Dialogue: 0,1:20:33.28,1:20:34.38,英文,,0000,0000,0000,,{\blur3}I'll just figure out who has
+Dialogue: 0,1:20:34.38,1:20:35.65,英文,,0000,0000,0000,,{\blur3}the highest prices on their heads...
+Dialogue: 0,1:20:35.65,1:20:36.62,英文,,0000,0000,0000,,{\blur3}and then I'll take them out.
+Dialogue: 0,1:20:36.62,1:20:38.59,英文,,0000,0000,0000,,{\blur3}No, I can't ask you to do that for me.
+Dialogue: 0,1:20:38.59,1:20:41.29,英文,,0000,0000,0000,,{\blur3}I'd do whatever I had to for you.
+Dialogue: 0,1:20:42.36,1:20:44.12,英文,,0000,0000,0000,,{\blur3}I'd give you whatever I have.
+Dialogue: 0,1:20:44.13,1:20:45.39,英文,,0000,0000,0000,,{\blur3}What are you doing?
+Dialogue: 0,1:20:48.16,1:20:50.07,英文,,0000,0000,0000,,{\blur3}I'd give you my heart.
+Dialogue: 0,1:20:51.33,1:20:53.17,英文,,0000,0000,0000,,{\blur3}Take it.
+Dialogue: 0,1:20:53.17,1:20:55.34,英文,,0000,0000,0000,,{\blur3}It's got an URM Micro-Reactor for a power supply,
+Dialogue: 0,1:20:55.34,1:20:57.07,英文,,0000,0000,0000,,{\blur3}probably worth millions.
+Dialogue: 0,1:20:57.07,1:20:58.77,英文,,0000,0000,0000,,{\blur3}With your connections,you can find a buyer...
+Dialogue: 0,1:20:58.77,1:21:01.14,英文,,0000,0000,0000,,{\blur3}you could make enough for both of us to go to Zalem...
+Dialogue: 0,1:21:01.14,1:21:02.64,英文,,0000,0000,0000,,{\blur3}and then we just find a cheap replacement...
+Dialogue: 0,1:21:02.64,1:21:03.71,英文,,0000,0000,0000,,{\blur3}No.
+Dialogue: 0,1:21:04.98,1:21:07.85,英文,,0000,0000,0000,,{\blur3}Come on, you buy and sell parts all day long.
+Dialogue: 0,1:21:10.39,1:21:12.29,英文,,0000,0000,0000,,{\blur3}Don't just do things for people.
+Dialogue: 0,1:21:13.69,1:21:15.39,英文,,0000,0000,0000,,{\blur3}No matter how good you think they are,
+Dialogue: 0,1:21:15.39,1:21:17.29,英文,,0000,0000,0000,,{\blur3}or how deserving they are.
+Dialogue: 0,1:21:18.26,1:21:20.16,英文,,0000,0000,0000,,{\blur3}It's all or nothing with me.
+Dialogue: 0,1:21:22.10,1:21:23.63,英文,,0000,0000,0000,,{\blur3}This is who I am.
+Dialogue: 0,1:21:24.93,1:21:26.13,英文,,0000,0000,0000,,{\blur3}I know.
+Dialogue: 0,1:21:28.84,1:21:29.84,英文,,0000,0000,0000,,{\blur3}It's okay.
+Dialogue: 0,1:21:30.94,1:21:32.41,英文,,0000,0000,0000,,{\blur3}Put it back.
+Dialogue: 0,1:21:45.32,1:21:46.86,英文,,0000,0000,0000,,{\blur3}That was pretty intense, huh?
+Dialogue: 0,1:21:50.03,1:21:51.86,英文,,0000,0000,0000,,{\blur3}Yeah, that was very intense.
+Dialogue: 0,1:21:53.76,1:21:55.16,英文,,0000,0000,0000,,{\blur3}Sorry.
+Dialogue: 0,1:21:56.83,1:21:59.17,英文,,0000,0000,0000,,{\blur3}Maybe there's another way.
+Dialogue: 0,1:21:59.17,1:22:02.10,英文,,0000,0000,0000,,{\blur3}Vector wants you to try out for Second League.
+Dialogue: 0,1:22:02.10,1:22:03.44,英文,,0000,0000,0000,,{\blur3}What?
+Dialogue: 0,1:22:03.44,1:22:05.67,英文,,0000,0000,0000,,{\blur3}You become a big Motorball star,
+Dialogue: 0,1:22:05.67,1:22:07.37,英文,,0000,0000,0000,,{\blur3}make a pile of money...
+Dialogue: 0,1:22:07.38,1:22:09.34,英文,,0000,0000,0000,,{\blur3}we can go to Zalem together.
+Dialogue: 0,1:22:09.34,1:22:10.64,英文,,0000,0000,0000,,{\blur3}What are you talking about?
+Dialogue: 0,1:22:10.65,1:22:12.92,英文,,0000,0000,0000,,{\blur3}I can't be a pro-Motorball player.
+Dialogue: 0,1:22:13.85,1:22:14.92,英文,,0000,0000,0000,,{\blur3}Ali...
+Dialogue: 0,1:22:16.08,1:22:17.49,英文,,0000,0000,0000,,{\blur3}you could be a champion.
+Dialogue: 0,1:22:18.72,1:22:19.89,英文,,0000,0000,0000,,{\blur3}You win this tryout...
+Dialogue: 0,1:22:19.89,1:22:22.49,英文,,0000,0000,0000,,{\blur3}every scout will be killing each other to get to you.
+Dialogue: 0,1:22:24.63,1:22:25.66,英文,,0000,0000,0000,,{\blur3}We'll be home free.
+Dialogue: 0,1:22:26.26,1:22:28.16,英文,,0000,0000,0000,,{\blur3}Only if you'll be my coach.
+Dialogue: 0,1:22:29.20,1:22:30.26,英文,,0000,0000,0000,,{\blur3}Well, if that's what it takes.
+Dialogue: 0,1:22:30.27,1:22:32.37,英文,,0000,0000,0000,,{\blur3}That's what it takes.
+Dialogue: 0,1:22:39.41,1:22:41.57,英文,,0000,0000,0000,,{\blur3}Are you going to kill her?
+Dialogue: 0,1:22:41.58,1:22:42.58,英文,,0000,0000,0000,,{\blur3}No.
+Dialogue: 0,1:22:43.04,1:22:44.61,英文,,0000,0000,0000,,{\blur3}Much worse.
+Dialogue: 0,1:22:58.63,1:23:00.36,英文,,0000,0000,0000,,{\blur3}Ido, can a human love a cyborg?
+Dialogue: 0,1:23:02.16,1:23:03.43,英文,,0000,0000,0000,,{\blur3}Why?
+Dialogue: 0,1:23:03.43,1:23:05.63,英文,,0000,0000,0000,,{\blur3}Does this cyborg love a human?
+Dialogue: 0,1:23:10.00,1:23:11.41,英文,,0000,0000,0000,,{\blur3}Mm-hmm.
+Dialogue: 0,1:23:12.37,1:23:15.34,英文,,0000,0000,0000,,{\blur3}A human can love a cyborg...
+Dialogue: 0,1:23:15.34,1:23:16.98,英文,,0000,0000,0000,,{\blur3}but you have to keep your mind on the game, Alita.
+Dialogue: 0,1:23:18.48,1:23:20.65,英文,,0000,0000,0000,,{\blur3}It can get very rough out there.
+Dialogue: 0,1:23:20.65,1:23:22.58,英文,,0000,0000,0000,,{\blur3}Even for a tryout.
+Dialogue: 0,1:23:23.75,1:23:24.82,英文,,0000,0000,0000,,{\blur3}Try these.
+Dialogue: 0,1:23:26.95,1:23:28.69,英文,,0000,0000,0000,,{\blur3}Did you make these for me?
+Dialogue: 0,1:23:29.59,1:23:30.76,英文,,0000,0000,0000,,{\blur3}Yes.
+Dialogue: 0,1:23:32.26,1:23:35.40,英文,,0000,0000,0000,,{\blur3}They won't make you any faster. It's regulation.
+Dialogue: 0,1:23:36.53,1:23:38.53,英文,,0000,0000,0000,,{\blur3}But at least they won't fail you.
+Dialogue: 0,1:23:42.97,1:23:44.47,英文,,0000,0000,0000,,{\blur3}Here's our deal.
+Dialogue: 0,1:23:45.81,1:23:48.01,英文,,0000,0000,0000,,{\blur3}You go in there, you race,
+Dialogue: 0,1:23:48.01,1:23:49.78,英文,,0000,0000,0000,,{\blur3}you win,you come back right here.
+Dialogue: 0,1:23:49.78,1:23:54.88,英文,,0000,0000,0000,,{\blur3}You wear all of these pads,especially this one.
+Dialogue: 0,1:23:56.35,1:23:58.08,英文,,0000,0000,0000,,{\blur3}I don't need all this crap.
+Dialogue: 0,1:23:58.09,1:23:59.59,英文,,0000,0000,0000,,{\blur3}Yes, you do.
+Dialogue: 0,1:24:00.72,1:24:02.12,英文,,0000,0000,0000,,{\blur3}Remember...
+Dialogue: 0,1:24:02.12,1:24:04.46,英文,,0000,0000,0000,,{\blur3}if you wreck this body,I can't fix it.
+Dialogue: 0,1:24:04.46,1:24:07.36,英文,,0000,0000,0000,,{\blur3}- This is URM technology.- Yes, I know.
+Dialogue: 0,1:24:07.36,1:24:08.69,英文,,0000,0000,0000,,{\blur3}Now, go find a place to watch,
+Dialogue: 0,1:24:08.70,1:24:10.03,英文,,0000,0000,0000,,{\blur3}because you're making me nervous.
+Dialogue: 0,1:24:13.13,1:24:14.74,英文,,0000,0000,0000,,{\blur3}Good luck.
+Dialogue: 0,1:24:15.54,1:24:16.74,英文,,0000,0000,0000,,{\blur3}Bye.
+Dialogue: 0,1:24:32.92,1:24:36.12,英文,,0000,0000,0000,,{\blur3}Thank you for coming on such short notice.
+Dialogue: 0,1:24:36.12,1:24:40.19,英文,,0000,0000,0000,,{\blur3}You are the scum of the game.
+Dialogue: 0,1:24:40.20,1:24:43.50,英文,,0000,0000,0000,,{\blur3}But tonight,you are hand-picked scum.
+Dialogue: 0,1:24:43.50,1:24:45.67,英文,,0000,0000,0000,,{\blur3}Because tonight is not a game.
+Dialogue: 0,1:24:45.67,1:24:47.53,英文,,0000,0000,0000,,{\blur3}It is a hunt.
+Dialogue: 0,1:24:47.54,1:24:49.87,英文,,0000,0000,0000,,{\blur3}I'm paying 500,000...
+Dialogue: 0,1:24:49.87,1:24:55.48,英文,,0000,0000,0000,,{\blur3}to the one who kills the girl called Alita.
+Dialogue: 0,1:25:01.22,1:25:02.31,英文,,0000,0000,0000,,{\blur3}Hey.
+Dialogue: 0,1:25:02.32,1:25:04.35,英文,,0000,0000,0000,,{\blur3}Where are you? The tryout's about to start.
+Dialogue: 0,1:25:04.35,1:25:05.82,英文,,0000,0000,0000,,{\blur3}I'm on my way.
+Dialogue: 0,1:25:05.82,1:25:08.06,英文,,0000,0000,0000,,{\blur3}There's something I've gotta do first.
+Dialogue: 0,1:25:08.06,1:25:09.42,英文,,0000,0000,0000,,{\blur3}I'm doing this for us,remember?
+Dialogue: 0,1:25:09.42,1:25:10.76,英文,,0000,0000,0000,,{\blur3}You can't miss it.
+Dialogue: 0,1:25:10.76,1:25:12.56,英文,,0000,0000,0000,,{\blur3}I won't. Trust me.
+Dialogue: 0,1:25:16.50,1:25:19.23,英文,,0000,0000,0000,,{\blur3}Please, just stop.
+Dialogue: 0,1:25:19.23,1:25:20.53,英文,,0000,0000,0000,,{\blur3}I didn't do anything to you.
+Dialogue: 0,1:25:20.53,1:25:23.40,英文,,0000,0000,0000,,{\blur3}It's just business.Nothing personal.
+Dialogue: 0,1:25:25.97,1:25:27.01,英文,,0000,0000,0000,,{\blur3}Tanji, stop!
+Dialogue: 0,1:25:29.44,1:25:30.71,英文,,0000,0000,0000,,{\blur3}Using my name?
+Dialogue: 0,1:25:32.25,1:25:33.82,英文,,0000,0000,0000,,{\blur3}Man, what's wrong with you?
+Dialogue: 0,1:25:35.38,1:25:37.72,英文,,0000,0000,0000,,{\blur3}I can't do this anymore.
+Dialogue: 0,1:25:37.72,1:25:39.92,英文,,0000,0000,0000,,{\blur3}What's the matter? You're already gone half the time.
+Dialogue: 0,1:25:39.92,1:25:42.26,英文,,0000,0000,0000,,{\blur3}Now you show up with this line of crap!
+Dialogue: 0,1:25:42.26,1:25:44.46,英文,,0000,0000,0000,,{\blur3}It's the little hard body,isn't it?
+Dialogue: 0,1:25:44.46,1:25:47.66,英文,,0000,0000,0000,,{\blur3}Listen, it's over.Do you understand?
+Dialogue: 0,1:25:47.66,1:25:48.86,英文,,0000,0000,0000,,{\blur3}I'm out.
+Dialogue: 0,1:25:48.86,1:25:51.90,英文,,0000,0000,0000,,{\blur3}And if you had any brains,you'd leave this behind, too.
+Dialogue: 0,1:25:53.37,1:25:54.87,英文,,0000,0000,0000,,{\blur3}I'm out.
+Dialogue: 0,1:25:55.90,1:25:57.07,英文,,0000,0000,0000,,{\blur3}For good.
+Dialogue: 0,1:25:58.71,1:26:01.47,英文,,0000,0000,0000,,{\blur3}You should've jacked that bitch when you had the chance.
+Dialogue: 0,1:26:01.48,1:26:03.58,英文,,0000,0000,0000,,{\blur3}Would've been on your way to Zalem right now.
+Dialogue: 0,1:26:19.19,1:26:20.63,英文,,0000,0000,0000,,{\blur3}Well, very professional.
+Dialogue: 0,1:26:20.63,1:26:22.13,英文,,0000,0000,0000,,{\blur3}Hey, man,we don't want any trouble.
+Dialogue: 0,1:26:22.13,1:26:25.43,英文,,0000,0000,0000,,{\blur3}If this is your mark,we're sorry. He's all yours.
+Dialogue: 0,1:26:27.70,1:26:28.90,英文,,0000,0000,0000,,{\blur3}Hugo.
+Dialogue: 0,1:26:29.84,1:26:31.64,英文,,0000,0000,0000,,{\blur3}Jacking cyborgs.
+Dialogue: 0,1:26:31.64,1:26:32.87,英文,,0000,0000,0000,,{\blur3}Your little girlfriend might take that
+Dialogue: 0,1:26:32.87,1:26:35.08,英文,,0000,0000,0000,,{\blur3}kind of personally,don't you think?
+Dialogue: 0,1:26:35.34,1:26:36.91,英文,,0000,0000,0000,,{\blur3}Hmm?
+Dialogue: 0,1:26:36.91,1:26:39.01,英文,,0000,0000,0000,,{\blur3}But you know girls.
+Dialogue: 0,1:26:39.01,1:26:41.68,英文,,0000,0000,0000,,{\blur3}She'll probably get all weepy and forgive you...
+Dialogue: 0,1:26:43.18,1:26:45.02,英文,,0000,0000,0000,,{\blur3}when I show her your head.
+Dialogue: 0,1:26:45.02,1:26:46.56,英文,,0000,0000,0000,,{\blur3}There's no marker out on me.
+Dialogue: 0,1:26:53.29,1:26:55.36,英文,,0000,0000,0000,,{\blur3}There will be.
+Dialogue: 0,1:26:55.36,1:26:57.53,英文,,0000,0000,0000,,{\blur3}Murder pulls a tight little bounty...
+Dialogue: 0,1:26:58.80,1:27:01.00,英文,,0000,0000,0000,,{\blur3}even with gutter trash like you.
+Dialogue: 0,1:27:01.00,1:27:02.91,英文,,0000,0000,0000,,{\blur3}I never killed anyone.
+Dialogue: 0,1:27:08.54,1:27:10.18,英文,,0000,0000,0000,,{\blur3}You just did.
+Dialogue: 0,1:27:16.42,1:27:19.18,英文,,0000,0000,0000,,{\blur3}She thinks she can punk me, huh?
+Dialogue: 0,1:27:23.46,1:27:24.86,英文,,0000,0000,0000,,{\blur3}Hugo, run!
+Dialogue: 0,1:28:30.49,1:28:33.49,英文,,0000,0000,0000,,{\blur3}{\i1}Next up is Second League tryouts.{\i}
+Dialogue: 0,1:28:33.49,1:28:36.70,英文,,0000,0000,0000,,{\blur3}{\i1}Will the Factory practice team report to the line?{\i}
+Dialogue: 0,1:28:44.17,1:28:46.67,英文,,0000,0000,0000,,{\blur3}{\i1}The winner tonight will make it one step closer...{\i}
+Dialogue: 0,1:28:46.67,1:28:49.74,英文,,0000,0000,0000,,{\blur3}{\i1}to qualifying for the Champions League.{\i}
+Dialogue: 0,1:28:49.74,1:28:52.65,英文,,0000,0000,0000,,{\blur3}{\i1}Well, that is one tough lineup.{\i}
+Dialogue: 0,1:28:52.65,1:28:54.88,英文,,0000,0000,0000,,{\blur3}{\i1}This is gonna be one heck of a match tonight.{\i}
+Dialogue: 0,1:29:03.29,1:29:04.93,英文,,0000,0000,0000,,{\blur3}That's no Factory team.
+Dialogue: 0,1:29:05.93,1:29:07.46,英文,,0000,0000,0000,,{\blur3}What?
+Dialogue: 0,1:29:07.46,1:29:09.66,英文,,0000,0000,0000,,{\blur3}These two punks in the back...
+Dialogue: 0,1:29:09.66,1:29:11.80,英文,,0000,0000,0000,,{\blur3}there are bounty markers on them.
+Dialogue: 0,1:29:13.63,1:29:17.04,英文,,0000,0000,0000,,{\blur3}And the other guys,they are Hunter-Warriors.
+Dialogue: 0,1:29:25.81,1:29:29.92,英文,,0000,0000,0000,,{\blur3}{\i1}And here comes tonight's one new prospect.{\i}
+Dialogue: 0,1:29:29.92,1:29:34.69,英文,,0000,0000,0000,,{\blur3}{\i1}Okay, then, folks,give it up for Alita!{\i}
+Dialogue: 0,1:29:36.29,1:29:38.46,英文,,0000,0000,0000,,{\blur3}Hugo brought her right to us.
+Dialogue: 0,1:29:38.46,1:29:40.96,英文,,0000,0000,0000,,{\blur3}- What'd you promise him?- Hmm.
+Dialogue: 0,1:29:42.53,1:29:44.97,英文,,0000,0000,0000,,{\blur3}I'm sending him to Zalem,of course.
+Dialogue: 0,1:29:55.04,1:29:57.28,英文,,0000,0000,0000,,{\blur3}Alita! Alita!
+Dialogue: 0,1:30:01.52,1:30:02.81,英文,,0000,0000,0000,,{\blur3}Hey.
+Dialogue: 0,1:30:02.82,1:30:04.15,英文,,0000,0000,0000,,{\blur3}{\i1}Since there is only one new prospect...{\i}
+Dialogue: 0,1:30:04.15,1:30:06.72,英文,,0000,0000,0000,,{\blur3}- What's up?- {\i1}...there will be no teams.{\i}
+Dialogue: 0,1:30:06.72,1:30:10.16,英文,,0000,0000,0000,,{\blur3}{\i1}The name of the gameis Cut-throat.{\i}
+Dialogue: 0,1:30:14.86,1:30:16.90,英文,,0000,0000,0000,,{\blur3}Go easy on me, guys.
+Dialogue: 0,1:30:17.57,1:30:19.36,英文,,0000,0000,0000,,{\blur3}Sure, kid.
+Dialogue: 0,1:30:19.37,1:30:20.97,英文,,0000,0000,0000,,{\blur3}No worries.
+Dialogue: 0,1:30:24.11,1:30:26.64,英文,,0000,0000,0000,,{\blur3}- {\i1}Alita!{\i}- What are you doing?
+Dialogue: 0,1:30:26.64,1:30:28.64,英文,,0000,0000,0000,,{\blur3}It's a setup.You gotta get outta there.
+Dialogue: 0,1:30:28.64,1:30:30.38,英文,,0000,0000,0000,,{\blur3}{\i1}They're gonna kill you!{\i}
+Dialogue: 0,1:30:34.02,1:30:35.35,英文,,0000,0000,0000,,{\blur3}Which ones?
+Dialogue: 0,1:30:35.35,1:30:36.75,英文,,0000,0000,0000,,{\blur3}All of them!
+Dialogue: 0,1:30:39.82,1:30:42.89,英文,,0000,0000,0000,,{\blur3}{\i1}Players, 10-second warning.{\i}
+Dialogue: 0,1:30:49.20,1:30:50.43,英文,,0000,0000,0000,,{\blur3}{\i1}Five seconds...{\i}
+Dialogue: 0,1:31:09.25,1:31:10.58,英文,,0000,0000,0000,,{\blur3}{\i1}The new kid, Alita,{\i}
+Dialogue: 0,1:31:10.58,1:31:13.19,英文,,0000,0000,0000,,{\blur3}{\i1}takes possession right off the snap.{\i}
+Dialogue: 0,1:31:21.96,1:31:26.40,英文,,0000,0000,0000,,{\blur3}{\i1}A slow Tuesday night just got hotter than the playoffs.{\i}
+Dialogue: 0,1:31:36.81,1:31:39.25,英文,,0000,0000,0000,,{\blur3}{\i1}Looks like the fans have themselves{\i}
+Dialogue: 0,1:31:39.25,1:31:40.48,英文,,0000,0000,0000,,{\blur3}{\i1}an underdog darling...{\i}
+Dialogue: 0,1:31:40.48,1:31:44.85,英文,,0000,0000,0000,,{\blur3}{\i1}with the face of an angel and a body built for battle.{\i}
+Dialogue: 0,1:31:52.46,1:31:53.83,英文,,0000,0000,0000,,{\blur3}{\i1}Maybe a little Motorball{\i}
+Dialogue: 0,1:31:53.83,1:31:55.60,英文,,0000,0000,0000,,{\blur3}{\i1}will break out in the middle of this fight.{\i}
+Dialogue: 0,1:31:55.60,1:31:57.43,英文,,0000,0000,0000,,{\blur3}Oh, crap.
+Dialogue: 0,1:32:08.54,1:32:09.68,英文,,0000,0000,0000,,{\blur3}{\i1}Oh! Looks like it's{\i}
+Dialogue: 0,1:32:09.68,1:32:11.78,英文,,0000,0000,0000,,{\blur3}{\i1}"No rules Tuesday" out there, folks.{\i}
+Dialogue: 0,1:32:23.86,1:32:26.33,英文,,0000,0000,0000,,{\blur3}{\i1}Ouch!You know that hurts!{\i}
+Dialogue: 0,1:32:30.43,1:32:34.20,英文,,0000,0000,0000,,{\blur3}{\i1}Stinger's got Alitain a lot of trouble.{\i}
+Dialogue: 0,1:32:45.91,1:32:48.55,英文,,0000,0000,0000,,{\blur3}{\i1}She must've said somethingin the locker room{\i}
+Dialogue: 0,1:32:48.55,1:32:50.79,英文,,0000,0000,0000,,{\blur3}{\i1}that these guys did not like.{\i}
+Dialogue: 0,1:33:10.17,1:33:12.64,英文,,0000,0000,0000,,{\blur3}{\i1}Number 99...{\i}
+Dialogue: 0,1:33:12.64,1:33:14.38,英文,,0000,0000,0000,,{\blur3}{\i1}Alita!{\i}
+Dialogue: 0,1:33:19.68,1:33:21.35,英文,,0000,0000,0000,,{\blur3}Ali, it's me.
+Dialogue: 0,1:33:22.05,1:33:23.51,英文,,0000,0000,0000,,{\blur3}{\i1}I've got a big problem.{\i}
+Dialogue: 0,1:33:23.52,1:33:26.18,英文,,0000,0000,0000,,{\blur3}Hugo, this is not a good time.
+Dialogue: 0,1:33:26.19,1:33:27.82,英文,,0000,0000,0000,,{\blur3}{\i1}He's trying to kill me.{\i}
+Dialogue: 0,1:33:28.42,1:33:29.76,英文,,0000,0000,0000,,{\blur3}Who's trying to kill you?
+Dialogue: 0,1:33:29.76,1:33:31.96,英文,,0000,0000,0000,,{\blur3}Zapan, the Hunter-Warrior.
+Dialogue: 0,1:33:32.66,1:33:34.23,英文,,0000,0000,0000,,{\blur3}He killed Tanji.
+Dialogue: 0,1:33:34.79,1:33:36.26,英文,,0000,0000,0000,,{\blur3}{\i1}What do you mean?{\i}
+Dialogue: 0,1:33:36.26,1:33:38.37,英文,,0000,0000,0000,,{\blur3}{\i1}Now, he's coming for me.{\i}
+Dialogue: 0,1:33:42.74,1:33:44.50,英文,,0000,0000,0000,,{\blur3}{\i1}Not sure our Battle Angel{\i}
+Dialogue: 0,1:33:44.51,1:33:46.07,英文,,0000,0000,0000,,{\blur3}{\i1}can get out of this one.{\i}
+Dialogue: 0,1:33:47.37,1:33:49.41,英文,,0000,0000,0000,,{\blur3}Oh, shit. Here he comes!
+Dialogue: 0,1:33:51.31,1:33:52.21,英文,,0000,0000,0000,,{\blur3}Where are you?
+Dialogue: 0,1:33:52.21,1:33:54.12,英文,,0000,0000,0000,,{\blur3}{\i1}I'm headed to the old church.{\i}
+Dialogue: 0,1:33:55.25,1:33:57.15,英文,,0000,0000,0000,,{\blur3}Okay. I'm coming.
+Dialogue: 0,1:34:04.89,1:34:07.29,英文,,0000,0000,0000,,{\blur3}{\i1}I can't believe it!Incredible!{\i}
+Dialogue: 0,1:34:07.29,1:34:10.00,英文,,0000,0000,0000,,{\blur3}{\i1}I've never seen anything like this.{\i}
+Dialogue: 0,1:35:10.69,1:35:12.93,英文,,0000,0000,0000,,{\blur3}Hey, I'm almost there.
+Dialogue: 0,1:35:12.93,1:35:14.20,英文,,0000,0000,0000,,{\blur3}Got it.
+Dialogue: 0,1:36:16.72,1:36:18.09,英文,,0000,0000,0000,,{\blur3}Where are you going, huh?
+Dialogue: 0,1:36:47.49,1:36:50.36,英文,,0000,0000,0000,,{\blur3}Looks like your Hugo hasn't been entirely honest with you.
+Dialogue: 0,1:36:52.76,1:36:54.46,英文,,0000,0000,0000,,{\blur3}Is it true?
+Dialogue: 0,1:36:54.76,1:36:55.80,英文,,0000,0000,0000,,{\blur3}Ali...
+Dialogue: 0,1:36:57.10,1:36:58.50,英文,,0000,0000,0000,,{\blur3}you don't understand.
+Dialogue: 0,1:37:03.70,1:37:05.51,英文,,0000,0000,0000,,{\blur3}I never killed anyone.
+Dialogue: 0,1:37:06.61,1:37:08.61,英文,,0000,0000,0000,,{\blur3}We only jacked parts.
+Dialogue: 0,1:37:10.08,1:37:12.78,英文,,0000,0000,0000,,{\blur3}We paralyzed them and stripped them, that's all.
+Dialogue: 0,1:37:15.35,1:37:17.42,英文,,0000,0000,0000,,{\blur3}I needed the money for Zalem.
+Dialogue: 0,1:37:19.35,1:37:21.62,英文,,0000,0000,0000,,{\blur3}Step aside and let me do my job.
+Dialogue: 0,1:37:24.96,1:37:27.49,英文,,0000,0000,0000,,{\blur3}Touch him again and I will kill you.
+Dialogue: 0,1:37:27.49,1:37:28.46,英文,,0000,0000,0000,,{\blur3}Interference between
+Dialogue: 0,1:37:28.46,1:37:30.50,英文,,0000,0000,0000,,{\blur3}a licensed Hunter-Warriorand his kill...
+Dialogue: 0,1:37:30.50,1:37:33.73,英文,,0000,0000,0000,,{\blur3}is a violation of Factory Law and the Hunter's Code.
+Dialogue: 0,1:37:33.74,1:37:35.60,英文,,0000,0000,0000,,{\blur3}He's mine!
+Dialogue: 0,1:37:37.14,1:37:39.24,英文,,0000,0000,0000,,{\blur3}Then make the kill.
+Dialogue: 0,1:37:46.71,1:37:48.68,英文,,0000,0000,0000,,{\blur3}Come on, Hunter-Warrior.
+Dialogue: 0,1:37:50.22,1:37:52.42,英文,,0000,0000,0000,,{\blur3}Tonight, you becomeone of us.
+Dialogue: 0,1:37:58.89,1:38:00.29,英文,,0000,0000,0000,,{\blur3}Mm-mmm.
+Dialogue: 0,1:38:00.29,1:38:02.33,英文,,0000,0000,0000,,{\blur3}You know, there's no room for love or mercy
+Dialogue: 0,1:38:02.33,1:38:03.73,英文,,0000,0000,0000,,{\blur3}in the Hunter's Code.
+Dialogue: 0,1:38:12.34,1:38:14.84,英文,,0000,0000,0000,,{\blur3}Let me make it easier for you.
+Dialogue: 0,1:38:22.48,1:38:23.52,英文,,0000,0000,0000,,{\blur3}Hugo!
+Dialogue: 0,1:38:28.26,1:38:32.29,英文,,0000,0000,0000,,{\blur3}{\i1}Deliver the criminal Hugo, Bounty 9107.{\i}
+Dialogue: 0,1:38:32.29,1:38:35.36,英文,,0000,0000,0000,,{\blur3}{\i1}Wanted for the crime of murder.{\i}
+Dialogue: 0,1:38:35.36,1:38:38.03,英文,,0000,0000,0000,,{\blur3}You better finish him before we do!
+Dialogue: 0,1:38:38.03,1:38:40.40,英文,,0000,0000,0000,,{\blur3}It's Hunter Law!
+Dialogue: 0,1:38:47.74,1:38:49.17,英文,,0000,0000,0000,,{\blur3}I have to get you to Ido.
+Dialogue: 0,1:38:49.18,1:38:51.61,英文,,0000,0000,0000,,{\blur3}No. Centurions.
+Dialogue: 0,1:38:51.61,1:38:53.98,英文,,0000,0000,0000,,{\blur3}If you go back out there with me alive,
+Dialogue: 0,1:38:53.98,1:38:55.68,英文,,0000,0000,0000,,{\blur3}they'll kill us both.
+Dialogue: 0,1:38:59.22,1:39:02.39,英文,,0000,0000,0000,,{\blur3}What did you do? What did you do?
+Dialogue: 0,1:39:04.82,1:39:06.56,英文,,0000,0000,0000,,{\blur3}I didn't kill that guy.
+Dialogue: 0,1:39:08.76,1:39:10.33,英文,,0000,0000,0000,,{\blur3}But what does it matter?
+Dialogue: 0,1:39:12.67,1:39:14.27,英文,,0000,0000,0000,,{\blur3}I tore people apart.
+Dialogue: 0,1:39:15.04,1:39:18.27,英文,,0000,0000,0000,,{\blur3}People like you, for money.
+Dialogue: 0,1:39:20.77,1:39:23.07,英文,,0000,0000,0000,,{\blur3}Where were you tonight?
+Dialogue: 0,1:39:23.08,1:39:25.34,英文,,0000,0000,0000,,{\blur3}I went to go stop the others.
+Dialogue: 0,1:39:25.35,1:39:27.75,英文,,0000,0000,0000,,{\blur3}- And tell them I quit.- Why?
+Dialogue: 0,1:39:29.08,1:39:31.02,英文,,0000,0000,0000,,{\blur3}Because I love you.
+Dialogue: 0,1:39:35.16,1:39:36.86,英文,,0000,0000,0000,,{\blur3}God, I'm sorry.
+Dialogue: 0,1:39:52.27,1:39:53.51,英文,,0000,0000,0000,,{\blur3}{\i1}Did you find them?{\i}
+Dialogue: 0,1:39:54.87,1:39:56.21,英文,,0000,0000,0000,,{\blur3}No.
+Dialogue: 0,1:39:56.91,1:39:58.55,英文,,0000,0000,0000,,{\blur3}They're gone.
+Dialogue: 0,1:40:02.72,1:40:06.29,英文,,0000,0000,0000,,{\blur3}You're so cold.Please don't die.
+Dialogue: 0,1:40:07.59,1:40:09.22,英文,,0000,0000,0000,,{\blur3}Please don't.
+Dialogue: 0,1:40:17.66,1:40:20.57,英文,,0000,0000,0000,,{\blur3}I'd give him my life if I could.
+Dialogue: 0,1:40:34.08,1:40:35.75,英文,,0000,0000,0000,,{\blur3}Maybe you can.
+Dialogue: 0,1:40:41.42,1:40:44.12,英文,,0000,0000,0000,,{\blur3}You have violated Factory Law and the Hunter's Code
+Dialogue: 0,1:40:44.12,1:40:45.69,英文,,0000,0000,0000,,{\blur3}by protecting a wanted felon.
+Dialogue: 0,1:40:47.46,1:40:51.93,英文,,0000,0000,0000,,{\blur3}{\i1}Where is the criminal Hugo, Bounty 9107?{\i}
+Dialogue: 0,1:40:57.20,1:40:58.44,英文,,0000,0000,0000,,{\blur3}Hugo is dead.
+Dialogue: 0,1:40:58.94,1:41:00.47,英文,,0000,0000,0000,,{\blur3}I claim the bounty.
+Dialogue: 0,1:41:00.47,1:41:03.01,英文,,0000,0000,0000,,{\blur3}Hunter-Warrior 26651.
+Dialogue: 0,1:41:04.45,1:41:06.65,英文,,0000,0000,0000,,{\blur3}{\i1}Claim confirmed.{\i}
+Dialogue: 0,1:41:13.22,1:41:14.42,英文,,0000,0000,0000,,{\blur3}Ah.
+Dialogue: 0,1:41:17.32,1:41:19.26,英文,,0000,0000,0000,,{\blur3}Yeah, that's a cute trick.
+Dialogue: 0,1:41:19.26,1:41:21.70,英文,,0000,0000,0000,,{\blur3}You think this is gonna work, huh? Hmm?
+Dialogue: 0,1:41:22.96,1:41:25.30,英文,,0000,0000,0000,,{\blur3}Give me that.
+Dialogue: 0,1:41:25.30,1:41:27.00,英文,,0000,0000,0000,,{\blur3}{\i1}Violation.{\i}
+Dialogue: 0,1:41:27.00,1:41:29.07,英文,,0000,0000,0000,,{\blur3}{\i1}Hunter-Warrior Zapan...{\i}
+Dialogue: 0,1:41:29.07,1:41:30.80,英文,,0000,0000,0000,,{\blur3}{\i1}stealing another's bounty{\i}
+Dialogue: 0,1:41:30.81,1:41:33.74,英文,,0000,0000,0000,,{\blur3}{\i1}is against Factory Law and the Hunter's Code.{\i}
+Dialogue: 0,1:41:33.74,1:41:34.91,英文,,0000,0000,0000,,{\blur3}Thanks.
+Dialogue: 0,1:41:38.85,1:41:40.01,英文,,0000,0000,0000,,{\blur3}My face.
+Dialogue: 0,1:41:41.02,1:41:42.55,英文,,0000,0000,0000,,{\blur3}My... My face!
+Dialogue: 0,1:41:43.82,1:41:45.25,英文,,0000,0000,0000,,{\blur3}My face!
+Dialogue: 0,1:41:45.25,1:41:46.72,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:42:01.70,1:42:02.74,英文,,0000,0000,0000,,{\blur3}How is he?
+Dialogue: 0,1:42:10.28,1:42:13.65,英文,,0000,0000,0000,,{\blur3}This city corrupts even good people.
+Dialogue: 0,1:42:19.39,1:42:20.82,英文,,0000,0000,0000,,{\blur3}He's good.
+Dialogue: 0,1:42:21.22,1:42:22.42,英文,,0000,0000,0000,,{\blur3}He's stable.
+Dialogue: 0,1:42:29.86,1:42:32.73,英文,,0000,0000,0000,,{\blur3}Chiren's surgical technique was brilliant.
+Dialogue: 0,1:42:35.07,1:42:37.11,英文,,0000,0000,0000,,{\blur3}There's no brain damage.
+Dialogue: 0,1:42:44.21,1:42:46.75,英文,,0000,0000,0000,,{\blur3}Vector was running a scam.
+Dialogue: 0,1:42:46.75,1:42:48.95,英文,,0000,0000,0000,,{\blur3}If you're born on the ground,you stay on the ground...
+Dialogue: 0,1:42:48.95,1:42:51.02,英文,,0000,0000,0000,,{\blur3}and no amount of money can change that.
+Dialogue: 0,1:42:51.02,1:42:54.12,英文,,0000,0000,0000,,{\blur3}The only one way to get from the lower world to Zalem...
+Dialogue: 0,1:42:54.12,1:42:56.15,英文,,0000,0000,0000,,{\blur3}is to become Final Champion.
+Dialogue: 0,1:42:56.16,1:42:58.82,英文,,0000,0000,0000,,{\blur3}You can't buy your way up there.
+Dialogue: 0,1:42:58.83,1:43:00.93,英文,,0000,0000,0000,,{\blur3}But how do you know that for sure?
+Dialogue: 0,1:43:04.96,1:43:06.10,英文,,0000,0000,0000,,{\blur3}I was born there.
+Dialogue: 0,1:43:08.70,1:43:12.41,英文,,0000,0000,0000,,{\blur3}I've removed it myself,the Mark of Zalem.
+Dialogue: 0,1:43:14.37,1:43:15.84,英文,,0000,0000,0000,,{\blur3}With our daughter's illness,
+Dialogue: 0,1:43:15.84,1:43:19.54,英文,,0000,0000,0000,,{\blur3}Chiren and I were forced to descend here to Iron City.
+Dialogue: 0,1:43:19.55,1:43:22.58,英文,,0000,0000,0000,,{\blur3}And the man responsible for our exile...
+Dialogue: 0,1:43:22.58,1:43:25.08,英文,,0000,0000,0000,,{\blur3}the watcher behind the eyes...
+Dialogue: 0,1:43:25.08,1:43:26.09,英文,,0000,0000,0000,,{\blur3}is Nova.
+Dialogue: 0,1:43:28.59,1:43:30.89,英文,,0000,0000,0000,,{\blur3}You had her heart in your hands...
+Dialogue: 0,1:43:32.63,1:43:34.90,英文,,0000,0000,0000,,{\blur3}and you let her live.
+Dialogue: 0,1:43:36.33,1:43:38.10,英文,,0000,0000,0000,,{\blur3}- I did.- Why?
+Dialogue: 0,1:43:40.27,1:43:42.10,英文,,0000,0000,0000,,{\blur3}Because I'm a doctor.
+Dialogue: 0,1:43:43.00,1:43:44.01,英文,,0000,0000,0000,,{\blur3}And...
+Dialogue: 0,1:43:46.04,1:43:47.87,英文,,0000,0000,0000,,{\blur3}I'm a mother.
+Dialogue: 0,1:43:49.34,1:43:51.71,英文,,0000,0000,0000,,{\blur3}And somehow I forgot that.
+Dialogue: 0,1:43:54.45,1:43:56.65,英文,,0000,0000,0000,,{\blur3}I can't do this anymore.
+Dialogue: 0,1:43:58.85,1:44:00.02,英文,,0000,0000,0000,,{\blur3}I'm out.
+Dialogue: 0,1:44:03.16,1:44:04.69,英文,,0000,0000,0000,,{\blur3}Chiren, wait.
+Dialogue: 0,1:44:15.90,1:44:17.81,英文,,0000,0000,0000,,{\blur3}Don't you think it's time you went to Zalem?
+Dialogue: 0,1:44:20.54,1:44:23.47,英文,,0000,0000,0000,,{\blur3}I could send you up there right now.
+Dialogue: 0,1:44:23.48,1:44:25.78,英文,,0000,0000,0000,,{\blur3}What I want...
+Dialogue: 0,1:44:27.31,1:44:29.52,英文,,0000,0000,0000,,{\blur3}it isn't up there.
+Dialogue: 0,1:44:47.97,1:44:50.80,英文,,0000,0000,0000,,{\blur3}I have to do something.
+Dialogue: 0,1:44:50.80,1:44:53.01,英文,,0000,0000,0000,,{\blur3}I'll come back for you.
+Dialogue: 0,1:44:55.51,1:44:57.54,英文,,0000,0000,0000,,{\blur3}This is my fault.
+Dialogue: 0,1:45:00.45,1:45:02.05,英文,,0000,0000,0000,,{\blur3}This is my fault.
+Dialogue: 0,1:45:02.05,1:45:04.69,英文,,0000,0000,0000,,{\blur3}Don't ever feel sorry for yourself.
+Dialogue: 0,1:45:05.92,1:45:08.26,英文,,0000,0000,0000,,{\blur3}You're the only one built for this.
+Dialogue: 0,1:45:10.06,1:45:12.09,英文,,0000,0000,0000,,{\blur3}Thank you, Father.
+Dialogue: 0,1:45:30.81,1:45:32.25,英文,,0000,0000,0000,,{\blur3}Vector!
+Dialogue: 0,1:45:33.81,1:45:35.81,英文,,0000,0000,0000,,{\blur3}{\i1}Hostile intention detected.{\i}
+Dialogue: 0,1:45:35.82,1:45:37.75,英文,,0000,0000,0000,,{\blur3}{\i1}Surrender your weapon.{\i}
+Dialogue: 0,1:45:46.36,1:45:48.20,英文,,0000,0000,0000,,{\blur3}{\i1}Surrender your weapon.{\i}
+Dialogue: 0,1:46:07.28,1:46:08.82,英文,,0000,0000,0000,,{\blur3}Security report.
+Dialogue: 0,1:46:12.15,1:46:13.65,英文,,0000,0000,0000,,{\blur3}Violation! Violation!
+Dialogue: 0,1:46:14.22,1:46:15.76,英文,,0000,0000,0000,,{\blur3}Violation! Violation!
+Dialogue: 0,1:46:20.16,1:46:21.70,英文,,0000,0000,0000,,{\blur3}Did you get her?
+Dialogue: 0,1:46:22.13,1:46:23.36,英文,,0000,0000,0000,,{\blur3}Security?
+Dialogue: 0,1:46:30.97,1:46:34.98,英文,,0000,0000,0000,,{\blur3}You were never going to send Hugo to Zalem, were you?
+Dialogue: 0,1:46:37.34,1:46:39.21,英文,,0000,0000,0000,,{\blur3}Whoa, whoa, whoa.
+Dialogue: 0,1:46:39.21,1:46:41.75,英文,,0000,0000,0000,,{\blur3}I always keep my promise to send people up.
+Dialogue: 0,1:46:45.49,1:46:47.62,英文,,0000,0000,0000,,{\blur3}Like Dr. Chiren here.
+Dialogue: 0,1:46:49.72,1:46:53.29,英文,,0000,0000,0000,,{\blur3}Nova demands body parts for his experiments.
+Dialogue: 0,1:46:53.29,1:46:56.20,英文,,0000,0000,0000,,{\blur3}Especially, the brains of people he admires.
+Dialogue: 0,1:47:00.10,1:47:04.30,英文,,0000,0000,0000,,{\blur3}And that is the only way anyone ever gets to Zalem.
+Dialogue: 0,1:47:10.28,1:47:11.75,英文,,0000,0000,0000,,{\blur3}It took you long enough.
+Dialogue: 0,1:47:15.18,1:47:17.28,英文,,0000,0000,0000,,{\blur3}I knew you wouldn't wait for your fate
+Dialogue: 0,1:47:17.28,1:47:18.88,英文,,0000,0000,0000,,{\blur3}to find you, little flea.
+Dialogue: 0,1:47:18.89,1:47:21.25,英文,,0000,0000,0000,,{\blur3}Get up.
+Dialogue: 0,1:47:32.47,1:47:34.04,英文,,0000,0000,0000,,{\blur3}Defense Ring!
+Dialogue: 0,1:48:01.83,1:48:03.23,英文,,0000,0000,0000,,{\blur3}Finish the mission.
+Dialogue: 0,1:48:03.73,1:48:06.27,英文,,0000,0000,0000,,{\blur3}Destroy Zalem.
+Dialogue: 0,1:48:11.50,1:48:14.71,英文,,0000,0000,0000,,{\blur3}{\i1}Destroy Zalem.{\i}
+Dialogue: 0,1:48:27.99,1:48:29.96,英文,,0000,0000,0000,,{\blur3}I know who my enemy is.
+Dialogue: 0,1:48:31.19,1:48:33.23,英文,,0000,0000,0000,,{\blur3}And I know he's watching us now.
+Dialogue: 0,1:48:35.60,1:48:37.13,英文,,0000,0000,0000,,{\blur3}And you're just his slave.
+Dialogue: 0,1:48:46.07,1:48:49.01,英文,,0000,0000,0000,,{\blur3}And I'm just an insignificant girl.
+Dialogue: 0,1:49:15.63,1:49:16.77,英文,,0000,0000,0000,,{\blur3}Speak.
+Dialogue: 0,1:49:16.77,1:49:19.20,英文,,0000,0000,0000,,{\blur3}No. No. No. Wait.
+Dialogue: 0,1:49:19.21,1:49:20.27,英文,,0000,0000,0000,,{\blur3}Speak!
+Dialogue: 0,1:49:20.27,1:49:22.14,英文,,0000,0000,0000,,{\blur3}What do you want me to say? I will say anything.
+Dialogue: 0,1:49:22.14,1:49:23.71,英文,,0000,0000,0000,,{\blur3}Not you.
+Dialogue: 0,1:49:23.71,1:49:24.91,英文,,0000,0000,0000,,{\blur3}Him!
+Dialogue: 0,1:49:34.22,1:49:36.09,英文,,0000,0000,0000,,{\blur3}So we finally meet, Alita.
+Dialogue: 0,1:49:36.99,1:49:39.16,英文,,0000,0000,0000,,{\blur3}Not your real name, of course.
+Dialogue: 0,1:49:39.16,1:49:40.23,英文,,0000,0000,0000,,{\blur3}Nova?
+Dialogue: 0,1:49:53.61,1:49:54.81,英文,,0000,0000,0000,,{\blur3}Where are you?
+Dialogue: 0,1:49:55.28,1:49:58.21,英文,,0000,0000,0000,,{\blur3}Home. As we speak.
+Dialogue: 0,1:49:58.21,1:49:59.95,英文,,0000,0000,0000,,{\blur3}Feet up.
+Dialogue: 0,1:50:00.95,1:50:02.11,英文,,0000,0000,0000,,{\blur3}Well, my girl,
+Dialogue: 0,1:50:02.12,1:50:05.08,英文,,0000,0000,0000,,{\blur3}you've certainly exceeded my expectations.
+Dialogue: 0,1:50:05.08,1:50:07.89,英文,,0000,0000,0000,,{\blur3}Killing my champion Grewishka.
+Dialogue: 0,1:50:07.89,1:50:09.22,英文,,0000,0000,0000,,{\blur3}Most impressive.
+Dialogue: 0,1:50:10.12,1:50:13.89,英文,,0000,0000,0000,,{\blur3}And turning a selfish creature like Chiren.
+Dialogue: 0,1:50:13.89,1:50:16.19,英文,,0000,0000,0000,,{\blur3}I didn't see that coming.
+Dialogue: 0,1:50:16.20,1:50:20.30,英文,,0000,0000,0000,,{\blur3}So, when you walk out of here,the Factory won't stop you.
+Dialogue: 0,1:50:21.73,1:50:23.17,英文,,0000,0000,0000,,{\blur3}This time.
+Dialogue: 0,1:50:23.17,1:50:25.97,英文,,0000,0000,0000,,{\blur3}I don't need your permission to live.
+Dialogue: 0,1:50:25.97,1:50:27.57,英文,,0000,0000,0000,,{\blur3}Others might.
+Dialogue: 0,1:50:28.51,1:50:30.28,英文,,0000,0000,0000,,{\blur3}Your Dr. Ido, for example.
+Dialogue: 0,1:50:31.28,1:50:32.91,英文,,0000,0000,0000,,{\blur3}And what about Hugo?
+Dialogue: 0,1:50:33.88,1:50:35.42,英文,,0000,0000,0000,,{\blur3}He's still alive, isn't he?
+Dialogue: 0,1:50:36.05,1:50:37.85,英文,,0000,0000,0000,,{\blur3}We will track him down.
+Dialogue: 0,1:50:37.85,1:50:39.05,英文,,0000,0000,0000,,{\blur3}Hmm.
+Dialogue: 0,1:50:39.05,1:50:41.92,英文,,0000,0000,0000,,{\blur3}I've found the only way to enjoy immortality...
+Dialogue: 0,1:50:42.69,1:50:44.56,英文,,0000,0000,0000,,{\blur3}is to watch others die.
+Dialogue: 0,1:50:46.56,1:50:48.29,英文,,0000,0000,0000,,{\blur3}You just lost a puppet.
+Dialogue: 0,1:50:51.83,1:50:54.60,英文,,0000,0000,0000,,{\blur3}Well, that looks fatal.
+Dialogue: 0,1:50:55.57,1:50:56.64,英文,,0000,0000,0000,,{\blur3}No matter.
+Dialogue: 0,1:50:57.67,1:50:59.64,英文,,0000,0000,0000,,{\blur3}Vector was getting tire-some.
+Dialogue: 0,1:51:02.91,1:51:06.05,英文,,0000,0000,0000,,{\blur3}You've made the biggest mistake of your life.
+Dialogue: 0,1:51:06.88,1:51:08.41,英文,,0000,0000,0000,,{\blur3}And what's that?
+Dialogue: 0,1:51:09.52,1:51:11.38,英文,,0000,0000,0000,,{\blur3}Underestimating who I am.
+Dialogue: 0,1:51:12.82,1:51:14.99,英文,,0000,0000,0000,,{\blur3}Then until next time.
+Dialogue: 0,1:51:16.42,1:51:17.42,英文,,0000,0000,0000,,{\blur3}Remember.
+Dialogue: 0,1:51:21.56,1:51:23.93,英文,,0000,0000,0000,,{\blur3}I see everything.
+Dialogue: 0,1:51:28.94,1:51:30.73,英文,,0000,0000,0000,,{\blur3}{\i1}Alita.{\i}
+Dialogue: 0,1:51:30.74,1:51:32.80,英文,,0000,0000,0000,,{\blur3}Factory enforcers came looking for Hugo.
+Dialogue: 0,1:51:32.81,1:51:34.97,英文,,0000,0000,0000,,{\blur3}{\i1}Somehow they knew he'd been kept alive.{\i}
+Dialogue: 0,1:51:34.98,1:51:37.71,英文,,0000,0000,0000,,{\blur3}{\i1}I helped him escape,but they've sealed the city.{\i}
+Dialogue: 0,1:51:37.71,1:51:39.95,英文,,0000,0000,0000,,{\blur3}- {\i1}They're going to find him.{\i}- Where is he?
+Dialogue: 0,1:51:40.61,1:51:42.02,英文,,0000,0000,0000,,{\blur3}He's trying to go up.
+Dialogue: 0,1:52:02.80,1:52:04.07,英文,,0000,0000,0000,,{\blur3}Hugo!
+Dialogue: 0,1:52:04.77,1:52:06.04,英文,,0000,0000,0000,,{\blur3}Hugo!
+Dialogue: 0,1:52:06.81,1:52:08.01,英文,,0000,0000,0000,,{\blur3}Hugo.
+Dialogue: 0,1:52:08.71,1:52:10.24,英文,,0000,0000,0000,,{\blur3}Hugo!
+Dialogue: 0,1:52:10.24,1:52:11.24,英文,,0000,0000,0000,,{\blur3}Stop.
+Dialogue: 0,1:52:11.24,1:52:13.21,英文,,0000,0000,0000,,{\blur3}You have to come down.We can't stay up here.
+Dialogue: 0,1:52:13.21,1:52:16.15,英文,,0000,0000,0000,,{\blur3}There's a bounty on me.This is the only way.
+Dialogue: 0,1:52:16.15,1:52:18.85,英文,,0000,0000,0000,,{\blur3}No, this is dangerous.We have to get down, now.
+Dialogue: 0,1:52:18.85,1:52:20.48,英文,,0000,0000,0000,,{\blur3}If I go back down there,I'm dead.
+Dialogue: 0,1:52:20.49,1:52:22.69,英文,,0000,0000,0000,,{\blur3}No. You have to listen to me, okay?
+Dialogue: 0,1:52:22.69,1:52:24.29,英文,,0000,0000,0000,,{\blur3}I've been right here before.
+Dialogue: 0,1:52:24.29,1:52:26.76,英文,,0000,0000,0000,,{\blur3}This is exactly where Nova wants you.
+Dialogue: 0,1:52:26.76,1:52:28.96,英文,,0000,0000,0000,,{\blur3}He's using you to get to me.
+Dialogue: 0,1:52:28.96,1:52:30.66,英文,,0000,0000,0000,,{\blur3}Come on,we have to go back down.
+Dialogue: 0,1:52:30.66,1:52:32.47,英文,,0000,0000,0000,,{\blur3}We belong up there, Alita.
+Dialogue: 0,1:52:33.90,1:52:37.20,英文,,0000,0000,0000,,{\blur3}We don't belong anywhere except together.
+Dialogue: 0,1:52:41.57,1:52:43.18,英文,,0000,0000,0000,,{\blur3}You'll always be running.
+Dialogue: 0,1:52:45.31,1:52:46.41,英文,,0000,0000,0000,,{\blur3}Together.
+Dialogue: 0,1:52:47.88,1:52:49.28,英文,,0000,0000,0000,,{\blur3}Come with me.
+Dialogue: 0,1:52:50.78,1:52:52.15,英文,,0000,0000,0000,,{\blur3}Please.
+Dialogue: 0,1:52:54.95,1:52:56.66,英文,,0000,0000,0000,,{\blur3}{\i1}We could be free.{\i}
+Dialogue: 0,1:53:07.53,1:53:08.90,英文,,0000,0000,0000,,{\blur3}Okay.
+Dialogue: 0,1:53:12.94,1:53:14.14,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:53:20.88,1:53:22.48,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:53:36.33,1:53:37.46,英文,,0000,0000,0000,,{\blur3}Hold on.
+Dialogue: 0,1:53:38.33,1:53:39.50,英文,,0000,0000,0000,,{\blur3}I got you.
+Dialogue: 0,1:53:43.07,1:53:45.37,英文,,0000,0000,0000,,{\blur3}Okay, okay. Don't move.
+Dialogue: 0,1:53:47.01,1:53:48.97,英文,,0000,0000,0000,,{\blur3}Don't move.
+Dialogue: 0,1:53:48.98,1:53:51.11,英文,,0000,0000,0000,,{\blur3}I'm gonna lift you up slowly.
+Dialogue: 0,1:54:08.43,1:54:09.80,英文,,0000,0000,0000,,{\blur3}Thank you...
+Dialogue: 0,1:54:11.10,1:54:13.00,英文,,0000,0000,0000,,{\blur3}for saving me.
+Dialogue: 0,1:54:13.00,1:54:14.37,英文,,0000,0000,0000,,{\blur3}I love you.
+Dialogue: 0,1:54:15.03,1:54:16.24,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:54:24.44,1:54:25.45,英文,,0000,0000,0000,,{\blur3}No!
+Dialogue: 0,1:54:52.47,1:54:54.47,英文,,0000,0000,0000,,{\blur3}{\i1}It took her only a few months...{\i}
+Dialogue: 0,1:54:54.47,1:54:57.54,英文,,0000,0000,0000,,{\blur3}{\i1}to rise through the ranks of the Second League.{\i}
+Dialogue: 0,1:54:57.54,1:55:00.81,英文,,0000,0000,0000,,{\blur3}{\i1}And tonight,she makes her first appearance{\i}
+Dialogue: 0,1:55:00.81,1:55:02.58,英文,,0000,0000,0000,,{\blur3}{\i1}in the Champions League.{\i}
+Dialogue: 0,1:55:02.58,1:55:05.88,英文,,0000,0000,0000,,{\blur3}{\i1}Where she has a chance at becoming Final Champion...{\i}
+Dialogue: 0,1:55:05.88,1:55:08.49,英文,,0000,0000,0000,,{\blur3}{\i1}and going to Zalem.{\i}
+Dialogue: 0,1:55:36.28,1:55:40.05,英文,,0000,0000,0000,,{\blur3}Alita! Alita! Alita!
+Dialogue: 0,1:55:40.05,1:55:44.66,英文,,0000,0000,0000,,{\blur3}{\i1}Let's hear it for the Battle Angel herself...{\i}
+Dialogue: 0,1:55:44.66,1:55:46.56,英文,,0000,0000,0000,,{\blur3}{\i1}number 99...{\i}
+Dialogue: 0,1:55:46.56,1:55:50.06,英文,,0000,0000,0000,,{\blur3}{\i1}Alita!{\i}
+Dialogue: 0,1:56:29.50,1:56:32.37,英文,,0000,0000,0000,,{\blur3}Alita! Alita! Alita!
+Dialogue: 0,1:56:51.52,1:56:55.44,英文,,0000,0000,0000,,{\blur3}Subtitles by explosiveskull www.OpenSubtitles.org
+
+
