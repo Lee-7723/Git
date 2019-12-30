@@ -1,12 +1,17 @@
 Waifu2x的神奇放大算法
 =====================
 
+2019-12-30
+
 原图
+
 ![avatar](https://github.com/Lijingze2019/Git/blob/master/%E9%A9%AC%E4%BC%9F%E9%9F%AC.jpeg)
+
 算法放大后
+
 ![avatar](https://github.com/Lijingze2019/Git/blob/master/%E9%A9%AC%E4%BC%9F%E9%9F%AC(UpRGB)(auto_scale)(Level3)(x4.000000).png)
-awesome-comment
-===============
+
+awesome-comment ===============
 
 欢迎提交issue来完善这个神级注释
 
