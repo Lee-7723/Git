@@ -28,7 +28,7 @@
         <mxCell id="v2PrhCpYd1FkFinGM10Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2PrhCpYd1FkFinGM10Q-4" target="v2PrhCpYd1FkFinGM10Q-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v2PrhCpYd1FkFinGM10Q-4" value="&lt;div&gt;安全(30%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2PrhCpYd1FkFinGM10Q-4" value="&lt;div&gt;高可用(30%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2PrhCpYd1FkFinGM10Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v2PrhCpYd1FkFinGM10Q-5" target="v2PrhCpYd1FkFinGM10Q-15">
@@ -46,7 +46,7 @@
         <mxCell id="v2PrhCpYd1FkFinGM10Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v2PrhCpYd1FkFinGM10Q-6" target="v2PrhCpYd1FkFinGM10Q-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v2PrhCpYd1FkFinGM10Q-6" value="稳定性(25%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2PrhCpYd1FkFinGM10Q-6" value="资源(25%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v2PrhCpYd1FkFinGM10Q-12" value="cpu使用率(50%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
