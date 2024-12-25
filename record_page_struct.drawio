@@ -92,10 +92,114 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dZdLvvBHCx31wuqo9Sya" name="第 2 页">
-    <mxGraphModel dx="1001" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NUMPYCc68fcOn-q25iBp-34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-1" target="NUMPYCc68fcOn-q25iBp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-1" value="点击查看单台数据库巡检历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-2" target="NUMPYCc68fcOn-q25iBp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-7" value="根据数据库ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUMPYCc68fcOn-q25iBp-6">
+          <mxGeometry x="-0.0114" y="-2" relative="1" as="geometry">
+            <mxPoint x="-20" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-2" target="NUMPYCc68fcOn-q25iBp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-15" value="&lt;div&gt;根据数据库ID&lt;/div&gt;&lt;div&gt;查最近一次的健康度记录&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUMPYCc68fcOn-q25iBp-8">
+          <mxGeometry x="0.7829" y="2" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-2" target="NUMPYCc68fcOn-q25iBp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-16" value="&lt;div&gt;根据数据库ID&lt;/div&gt;&lt;div&gt;查指定时间范围的健康度记录&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUMPYCc68fcOn-q25iBp-13">
+          <mxGeometry x="0.8321" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-2" value="点击查看健康度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-4" target="NUMPYCc68fcOn-q25iBp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-4" value="&lt;div&gt;查表&lt;/div&gt;&lt;div&gt;数据库台账表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-5" target="NUMPYCc68fcOn-q25iBp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-5" target="NUMPYCc68fcOn-q25iBp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-24" value="关联的巡检项执行记录ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NUMPYCc68fcOn-q25iBp-22">
+          <mxGeometry x="0.0433" y="1" relative="1" as="geometry">
+            <mxPoint x="26" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-5" value="&lt;div&gt;查表&lt;/div&gt;&lt;div&gt;健康度历史记录表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-10" value="&lt;div&gt;数据库实例&lt;/div&gt;&lt;div&gt;基本信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-12" target="NUMPYCc68fcOn-q25iBp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-12" value="&lt;div&gt;查表&lt;/div&gt;&lt;div&gt;健康度历史记录表&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-17" value="&lt;div&gt;单次健康度&lt;/div&gt;&lt;div&gt;得分详情&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-19" target="NUMPYCc68fcOn-q25iBp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-19" target="NUMPYCc68fcOn-q25iBp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-19" value="&lt;div&gt;历史健康度&lt;/div&gt;&lt;div&gt;评分趋势&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-21" value="每一巡检项详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-26" value="展示页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-27" value="&lt;div&gt;健康度总分趋势&lt;/div&gt;&lt;div&gt;健康度分类得分趋势&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NUMPYCc68fcOn-q25iBp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="650" />
+              <mxPoint x="610" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-30" value="&lt;div&gt;历史健康度列表&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMPYCc68fcOn-q25iBp-35" value="展示页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
