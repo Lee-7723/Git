@@ -16,20 +16,51 @@
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-2" target="8ljmCb-oFIhn69ZRCiRs-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8ljmCb-oFIhn69ZRCiRs-2" value="无健康度记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-2" value="无健康度历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-3" target="8ljmCb-oFIhn69ZRCiRs-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8ljmCb-oFIhn69ZRCiRs-3" value="有健康度记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-3" value="有健康度历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-6" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 2,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;msg: &quot;无健康度数据&quot;,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8ljmCb-oFIhn69ZRCiRs-8" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime: &quot;2025-01-01&quot;,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime字段为此次返回数据对应的日期，&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;请求时若无evaluateTime字段，则evaluateTime为最近一次有分的日期；&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;若有evaluateTime字段，则返回时该字段为请求时的evaluateTime&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="520" y="302.5" width="200" height="237.5" as="geometry" />
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-8" target="8ljmCb-oFIhn69ZRCiRs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-8" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime: &quot;2025-01-01&quot;,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime字段为此次返回数据对应的日期，&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;请求时若无evaluateTime字段，则evaluateTime为最近一次有分的日期（大部分情况就是昨天的日期，若最近几天某台数据库没有任何健康度数据，则返回最后一次有数据时的日期和数据）；&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;若有evaluateTime字段，则返回时该字段为请求时的evaluateTime&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-13" target="8ljmCb-oFIhn69ZRCiRs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-20" value="该天无数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8ljmCb-oFIhn69ZRCiRs-17">
+          <mxGeometry x="-0.0565" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-13" target="8ljmCb-oFIhn69ZRCiRs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-19" value="该天有数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8ljmCb-oFIhn69ZRCiRs-18">
+          <mxGeometry x="0.1648" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-13" value="查询历史某一天的健康度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-15" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 3,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;msg: &quot;该日期无健康度数据&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="990" y="180" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-16" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="990" y="460" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-21" value="&lt;div&gt;记录健康度历史的时候区分一下零分和无数据：&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;若该天有健康度巡检项的结果，则正常记分；&lt;/div&gt;&lt;div&gt;若该天没有任何健康度巡检项的结果，标记为无数据&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
