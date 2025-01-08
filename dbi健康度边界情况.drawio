@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="第 1 页" id="yXZBx2AvGDgZ-T84-bRQ">
-    <mxGraphModel>
+    <mxGraphModel dx="588" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-1" target="8ljmCb-oFIhn69ZRCiRs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-1" target="8ljmCb-oFIhn69ZRCiRs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-1" value="&lt;div&gt;选择某数据库&lt;/div&gt;&lt;div&gt;点击“查看健康度”&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-2" target="8ljmCb-oFIhn69ZRCiRs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-2" value="无健康度记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ljmCb-oFIhn69ZRCiRs-3" target="8ljmCb-oFIhn69ZRCiRs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-3" value="有健康度记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-6" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 2,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;msg: &quot;无健康度数据&quot;,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-8" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime: &quot;2025-01-01&quot;,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;evaluateTime字段为此次返回数据对应的日期，&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;请求时若无evaluateTime字段，则evaluateTime为最近一次有分的日期；&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;若有evaluateTime字段，则返回时该字段为请求时的evaluateTime&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="302.5" width="200" height="237.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
