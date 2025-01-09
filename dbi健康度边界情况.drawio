@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="第 1 页" id="yXZBx2AvGDgZ-T84-bRQ">
-    <mxGraphModel dx="705" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1067" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-15" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 3,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;msg: &quot;该日期无健康度数据&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="990" y="180" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8ljmCb-oFIhn69ZRCiRs-16" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="8ljmCb-oFIhn69ZRCiRs-16" value="&lt;div align=&quot;left&quot;&gt;/health_single&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;{&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;code: 1,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;}&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;正常返回数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="990" y="460" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-21" value="&lt;div&gt;记录健康度历史的时候区分一下零分和无数据：&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;若该天有健康度巡检项的结果，则正常记分；&lt;/div&gt;&lt;div&gt;若该天没有任何健康度巡检项的结果，标记为无数据，在/health_total返回数据的时候按0分返回（暂定）&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
