@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6">
   <diagram name="第 1 页" id="7n4_X7m-PvC-wX_iZSXa">
-    <mxGraphModel>
+    <mxGraphModel dx="1053" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-1" target="Mg4e86TxbMPJbx09BRZh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-1" target="Mg4e86TxbMPJbx09BRZh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-1" value="定时任务或http接口触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-2" target="Mg4e86TxbMPJbx09BRZh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-2" value="&lt;div&gt;填充HTML模板&lt;/div&gt;&lt;div&gt;（直接将所有所需数据插入到模板）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-3" target="Mg4e86TxbMPJbx09BRZh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-3" value="使用查询参数向HTML模板传递dbId参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-4" target="Mg4e86TxbMPJbx09BRZh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-4" value="playwright无头浏览器打开HTML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-5" target="Mg4e86TxbMPJbx09BRZh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-5" value="playwright无头浏览器打开HTML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-11" target="Mg4e86TxbMPJbx09BRZh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-11" value="网页根据dbId向后端发起请求（跨域、鉴权可能出问题）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg4e86TxbMPJbx09BRZh-12" target="Mg4e86TxbMPJbx09BRZh-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-12" value="playwright生成pdf文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg4e86TxbMPJbx09BRZh-17" value="&lt;div&gt;接口返回pdf文件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="585" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
