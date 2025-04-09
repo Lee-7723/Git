@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="第 1 页" id="yXZBx2AvGDgZ-T84-bRQ">
-    <mxGraphModel dx="1067" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,61 @@
           <mxGeometry x="990" y="460" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8ljmCb-oFIhn69ZRCiRs-21" value="&lt;div&gt;记录健康度历史的时候区分一下零分和无数据：&lt;/div&gt;&lt;blockquote&gt;&lt;div&gt;若该天有健康度巡检项的结果，则正常记分；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;若该天没有任何健康度巡检项的结果，标记为无数据，在/health_total返回数据的时候按0分返回（暂定）&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="560" width="270" height="140" as="geometry" />
+          <mxGeometry x="240" y="480" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-1" value="&lt;div&gt;总分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1105" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bKGdeMxbvs-bu95gBtVJ-2" target="bKGdeMxbvs-bu95gBtVJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="505" y="940" width="20" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-3" value="资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-4" value="性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1000" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-5" value="高可用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1070" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-6" value="备份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-7" value="基础配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-8" value="安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="675" y="885" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-12" value="cpu利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-13" value="内存利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-14" value="&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="990" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="830" y="810" width="20" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-16" value="结果1：80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="795" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-17" value="结果2：85" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-18" value="结果3：60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="885" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-19" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="930" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
