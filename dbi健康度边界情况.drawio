@@ -92,29 +92,29 @@
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="675" y="885" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bKGdeMxbvs-bu95gBtVJ-12" value="cpu利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="870" width="90" height="30" as="geometry" />
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-12" value="作业项1：cpu利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="870" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bKGdeMxbvs-bu95gBtVJ-13" value="内存利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="930" width="90" height="30" as="geometry" />
+        <mxCell id="bKGdeMxbvs-bu95gBtVJ-13" value="作业项2：内存利用率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="930" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-14" value="&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="990" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="830" y="810" width="20" height="135" as="geometry" />
+          <mxGeometry x="880" y="805" width="20" height="135" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-16" value="结果1：80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="795" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="790" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-17" value="结果2：85" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="840" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="835" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-18" value="结果3：60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="885" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="880" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKGdeMxbvs-bu95gBtVJ-19" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="930" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="925" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
