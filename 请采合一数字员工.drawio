@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="DVGuRSDHm46C6rylTjXm-16" value="创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVGuRSDHm46C6rylTjXm-10">
           <mxGeometry x="0.3216" y="3" relative="1" as="geometry">
-            <mxPoint x="5" y="8" as="offset" />
+            <mxPoint x="5" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVGuRSDHm46C6rylTjXm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DVGuRSDHm46C6rylTjXm-6" target="DVGuRSDHm46C6rylTjXm-11">
@@ -43,7 +43,7 @@
         </mxCell>
         <mxCell id="DVGuRSDHm46C6rylTjXm-18" value="退接收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DVGuRSDHm46C6rylTjXm-15">
           <mxGeometry x="0.4788" y="2" relative="1" as="geometry">
-            <mxPoint x="16" y="-4" as="offset" />
+            <mxPoint x="16" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DVGuRSDHm46C6rylTjXm-6" value="任务选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
