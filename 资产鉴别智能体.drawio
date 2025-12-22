@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WISl-y0i6pMBaMC8XuMA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#616161);" value="" vertex="1">
+          <mxGeometry height="150" width="170" x="270" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WISl-y0i6pMBaMC8XuMA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#616161);" value="" vertex="1">
+          <mxGeometry height="180" width="450" x="450" y="140" as="geometry" />
+        </mxCell>
         <mxCell id="9tmiu1Uqh8_4TUwAikKP-6" edge="1" parent="1" source="9tmiu1Uqh8_4TUwAikKP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9tmiu1Uqh8_4TUwAikKP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -80,6 +86,12 @@
         </mxCell>
         <mxCell id="9tmiu1Uqh8_4TUwAikKP-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;spacingLeft=2;spacingRight=2;spacingBottom=2;spacingTop=2;spacing=4;" value="回答未查询到" vertex="1">
           <mxGeometry height="30" width="85" x="472.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WISl-y0i6pMBaMC8XuMA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#828282);" value="接口查询" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WISl-y0i6pMBaMC8XuMA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#828282);" value="结果文案整合" vertex="1">
+          <mxGeometry height="30" width="80" x="635" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
