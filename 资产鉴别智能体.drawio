@@ -56,7 +56,7 @@
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tmiu1Uqh8_4TUwAikKP-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否查到" vertex="1">
+        <mxCell id="9tmiu1Uqh8_4TUwAikKP-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" value="是否查到" vertex="1">
           <mxGeometry height="40" width="90" x="470" y="190" as="geometry" />
         </mxCell>
         <mxCell id="9tmiu1Uqh8_4TUwAikKP-22" edge="1" parent="1" source="9tmiu1Uqh8_4TUwAikKP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9tmiu1Uqh8_4TUwAikKP-9">
@@ -75,7 +75,7 @@
             <mxPoint x="-3" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9tmiu1Uqh8_4TUwAikKP-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="查询结果是否单一" vertex="1">
+        <mxCell id="9tmiu1Uqh8_4TUwAikKP-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" value="查询结果是否单一" vertex="1">
           <mxGeometry height="40" width="140" x="610" y="190" as="geometry" />
         </mxCell>
         <mxCell id="9tmiu1Uqh8_4TUwAikKP-30" edge="1" parent="1" source="9tmiu1Uqh8_4TUwAikKP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9tmiu1Uqh8_4TUwAikKP-1">
