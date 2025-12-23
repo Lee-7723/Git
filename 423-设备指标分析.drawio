@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+  <diagram name="第 1 页" id="wVMAL-wcyHo1X7CQYacM">
+    <mxGraphModel dx="1418" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5QH__AGBkykavluMZu_I-5" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="用户输入" vertex="1">
+          <mxGeometry height="30" width="80" x="200" y="227.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-6" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="大模型语义&lt;div&gt;识别提参&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="80" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-7" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="查询设备筛选接口" vertex="1">
+          <mxGeometry height="45" width="80" x="414" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-10" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-11" connectable="0" parent="5QH__AGBkykavluMZu_I-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.0909" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-14" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="5QH__AGBkykavluMZu_I-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-16" connectable="0" parent="5QH__AGBkykavluMZu_I-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3333" y="2" as="geometry">
+            <mxPoint x="10" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" value="是否锁定单一设备" vertex="1">
+          <mxGeometry height="45" width="160" x="520" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-12" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="展示设备列表&lt;div&gt;引导用户精准询问&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="100" x="550" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-19" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="5QH__AGBkykavluMZu_I-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-20" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="查询设备指标接口" vertex="1">
+          <mxGeometry height="45" width="80" x="720" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-22" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="大模型给出&lt;div&gt;处置建议&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="80" x="840" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-23" edge="1" parent="1" source="5QH__AGBkykavluMZu_I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5QH__AGBkykavluMZu_I-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="生成echarts&lt;br&gt;曲线图" vertex="1">
+          <mxGeometry height="45" width="80" x="840" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5QH__AGBkykavluMZu_I-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="整理文案&lt;br&gt;输出展示" vertex="1">
+          <mxGeometry height="45" width="80" x="960" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
